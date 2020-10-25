@@ -1,0 +1,26 @@
+const text = [
+  {
+    "ext": ["csv"],
+    "kind": ["Comma-Separated Values"]
+  },
+  {
+    "ext": ["md"],
+    "kind": ["Text file (Markdown)"]
+  },
+  {
+    "ext": ["rtf"],
+    "mimetype": ["application/rtf"],
+    "kind": ["Text file (RTF)"],
+  },
+  {
+    "ext": ["tsv"],
+    "kind": ["Tab-Separated Values"]
+  },
+  {
+    "ext": ["txt"],
+    "mimetype": ["text/plain"],
+    "kind": ["Text file"],
+  },
+];
+
+export default text;

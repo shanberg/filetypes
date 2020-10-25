@@ -1,0 +1,48 @@
+const disk = [
+  { 
+    "ext": ["adz"],
+    "kind": ["Amiga Disk Zipped"]
+  },
+  { 
+    "ext": ["d64"],
+    "kind": ["Commodore 64 disk image"]
+  },
+  { 
+    "ext": ["d88"],
+    "kind": ["Toshiba Pasopeia D88 disk image"]
+  },
+  { 
+    "ext": ["ddi"],
+    "kind": ["DiskDupe Disk Image"]
+  },
+  { 
+    "ext": ["dmg"],
+    "kind": ["Apple Disk Image"]
+  },
+  { 
+    "ext": ["ede"],
+    "kind": ["AWAVE Ensoniq EPS disk image"]
+  },
+  { 
+    "ext": ["esd"],
+    "kind": ["Windows Imaging Format disk image"]
+  },
+  { 
+    "ext": ["swm"],
+    "kind": ["Split Windows Imaging Format disk image"]
+  },
+  { 
+    "ext": ["vdi"],
+    "kind": ["VirtualBox Virtual Disk Image"]
+  },
+  { 
+    "ext": ["vfd"],
+    "kind": ["Virtual Floppy Disk image"]
+  },
+  { 
+    "ext": ["vmdk"],
+    "kind": ["VMware Virtual Disk file"]
+  },
+]
+
+export default disk;

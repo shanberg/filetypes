@@ -1,0 +1,127 @@
+export const audio = [
+  {
+    "ext": ["aac"],
+    "mimetype": ["audio/aac"],
+    "kind": ["AAC audio"]
+  },
+  {
+    "ext": ["aiff"],
+    "kind": ["Audio Interchange File Format"]
+  },
+  {
+    "ext": ["ape"],
+    "kind": ["Monkey's Audio (Lossless)"]
+  },
+  {
+    "ext": ["at3"],
+    "kind": ["Sony Atrac 3 sound/music"]
+  },
+  {
+    "ext": ["dcm"],
+    "kind": ["AWAVE DCM music module"]
+  },
+  {
+    "ext": ["dfs"],
+    "kind": ["Delight sound"]
+  },
+  {
+    "ext": ["dig"],
+    "kind": ["AWAVE Sound Designer 1 audio"]
+  },
+  {
+    "ext": ["dor"],
+    "kind": ["Roland Roland Digital audio"]
+  },
+  {
+    "ext": ["flac"],
+    "kind": ["FLAC Audio format"]
+  },
+  {
+    "ext": ["it"],
+    "kind": ["Impulse Tracker music"]
+  },
+  {
+    "ext": ["mds"],
+    "kind": ["Sound Imp. Midi Session"]
+  },
+  {
+    "ext": ["midi", "mid"],
+    "mimetype": ["audio/midi", "audio/x-midi"],
+    "kind": ["Musical Instrument Digital Interface (MIDI)"]
+  },
+  {
+    "ext": ["mp2"],
+    "kind": ["MPEG audio"]
+  },
+  {
+    "ext": ["mp3"],
+    "kind": ["MP3 audio"]
+  },
+  {
+    "ext": ["mp3"],
+    "mimetype": ["audio/mpeg"],
+    "kind": ["MP3 audio"]
+  },
+  {
+    "ext": ["mp4"],
+    "kind": ["MP4 audio"]
+  },
+  {
+    "ext": ["mpa"],
+    "kind": ["MPEG audio, layer 1,2,3"]
+  },
+  {
+    "ext": ["mpc"],
+    "kind": ["Musepack audio"]
+  },
+  {
+    "ext": ["oga"],
+    "mimetype": ["audio/ogg"],
+    "kind": ["OGG audio"]
+  },
+  {
+    "ext": ["opus"],
+    "kind": ["Ogg/Opus audio"]
+  },
+  {
+    "ext": ["opus"],
+    "mimetype": ["audio/opus"],
+    "kind": ["Opus audio"]
+  },
+  {
+    "ext": ["rad"],
+    "kind": ["Reality AdLib Tracker 2-op FM music"]
+  },
+  {
+    "ext": ["sts"],
+    "kind": ["Scream Tracker Song"]
+  },
+  {
+    "ext": ["tak"],
+    "kind": ["BE audio (Lossless)"]
+  },
+  {
+    "ext": ["wav"],
+    "mimetype": ["audio/wav"],
+    "kind": ["Waveform audio"]
+  },
+  {
+    "ext": ["weba"],
+    "mimetype": ["audio/webm"],
+    "kind": ["WEBM audio"]
+  },
+  {
+    "ext": ["wma"],
+    "kind": ["Windows Media audio"]
+  },
+  {
+    "ext": ["xm"],
+    "kind": ["FastTracker 2 Cubic Player Music"]
+  },
+  {
+    "ext": ["xmf"],
+    "kind": ["Extensible Music Format"]
+  },
+];
+
+export default audio;
