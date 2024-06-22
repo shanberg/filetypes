@@ -1,0 +1,35 @@
+ext,mimetype,kind
+3ds,,3D Studio Graphics format
+3mf,,3D Manufacturing Format
+amf,,Additive Manufacturing Format
+ar,,Argon 3D model
+aty,,3D Topicscape Association Export file
+d4d,,Draw 4D Object
+d4p,,Draw 4D Pro Object
+dbx,,AutoCAD Database
+dc,,DesignCAD 3000 CAD Drawing
+dcd,,DesignCAD 3DMax CAD Drawing
+dch,,DipTrace Schematic Drawing
+dda,,GLBasic ASCII 3D object data
+ddd,,Building Diagram
+dff,,RenderWare 3d Model
+dkb,,DKBTrace Raytraced graphics
+dw2,,DesignCAD Drawing
+dwf,,Autodesk Design Web Format
+dwg,,CAD Drawing
+dxf,,CAD Drawing Interchange File
+e57,,3D Point cloud
+fbx,,Autodesk 3D Model Interchange file
+gbr,,PCB CAD/CAM Gerber format
+mdl,,3D Model
+mgf,,Materials and Geometry Format
+msdl,,Manchester Scene Description Language
+mxf,,Material Exchange Format
+stp,,CAD Universal Product Data Exchange Format
+sxp,,3D Studio Process file
+usdz,,Augmented Reality (AR) file
+vc6,,Ashlar-Vellum Graphite file
+vrml,,NetScape Virtual Reality Modeling Language
+vs,,Ashlar-Vellum Solids file
+x3d,,Extensible 3D Vector graphics (XML)
+xe,,Ashlar-Vellum Xenon Associative 3D Modeling file

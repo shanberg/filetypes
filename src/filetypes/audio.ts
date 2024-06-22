@@ -1,4 +1,5 @@
-export const audio = [
+/// <reference path="../types.d.ts" />
+export const audio: Filetype[] = [
   {
     "ext": ["aac"],
     "mimetype": ["audio/aac"],

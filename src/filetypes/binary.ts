@@ -1,5 +1,6 @@
+/// <reference path="../types.d.ts" />
 
-const binary = [
+export const binary: Filetype[] = [
   {
     "ext": ["bin"],
     "mimetype": ["application/octet-stream"],

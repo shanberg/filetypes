@@ -1,4 +1,6 @@
-const chemistry = [
+/// <reference path="../types.d.ts" />
+
+export const chemistry: Filetype[] = [
   {
     "ext": ["adicht"],
     "kind": ["LabChart data acquisition"]

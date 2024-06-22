@@ -1,0 +1,91 @@
+{
+  "version": "3",
+  "packages": {
+    "specifiers": {
+      "jsr:@std/assert@^0.226.0": "jsr:@std/assert@0.226.0",
+      "jsr:@std/bytes@^1.0.0-rc.3": "jsr:@std/bytes@1.0.0",
+      "jsr:@std/csv@^0.224.3": "jsr:@std/csv@0.224.3",
+      "jsr:@std/fs@^0.229.0": "jsr:@std/fs@0.229.3",
+      "jsr:@std/path@1.0.0-rc.1": "jsr:@std/path@1.0.0-rc.1",
+      "jsr:@std/path@^0.225.2": "jsr:@std/path@0.225.2",
+      "jsr:@std/streams@^0.224.4": "jsr:@std/streams@0.224.5",
+      "npm:@types/node": "npm:@types/node@18.16.19",
+      "npm:fs-ext@2.0.0": "npm:fs-ext@2.0.0"
+    },
+    "jsr": {
+      "@std/assert@0.226.0": {
+        "integrity": "0dfb5f7c7723c18cec118e080fec76ce15b4c31154b15ad2bd74822603ef75b3"
+      },
+      "@std/bytes@1.0.0": {
+        "integrity": "9392e72af80adccaa1197912fa19990ed091cb98d5c9c4344b0c301b22d7c632"
+      },
+      "@std/csv@0.224.3": {
+        "integrity": "cf9cb88954a029b9997a613f67771d39b4d1602c8ea1a289328c89b48460fae3",
+        "dependencies": [
+          "jsr:@std/streams@^0.224.4"
+        ]
+      },
+      "@std/fs@0.229.3": {
+        "integrity": "783bca21f24da92e04c3893c9e79653227ab016c48e96b3078377ebd5222e6eb",
+        "dependencies": [
+          "jsr:@std/path@1.0.0-rc.1"
+        ]
+      },
+      "@std/path@0.225.2": {
+        "integrity": "0f2db41d36b50ef048dcb0399aac720a5348638dd3cb5bf80685bf2a745aa506",
+        "dependencies": [
+          "jsr:@std/assert@^0.226.0"
+        ]
+      },
+      "@std/path@1.0.0-rc.1": {
+        "integrity": "b8c00ae2f19106a6bb7cbf1ab9be52aa70de1605daeb2dbdc4f87a7cbaf10ff6"
+      },
+      "@std/streams@0.224.5": {
+        "integrity": "bcde7818dd5460d474cdbd674b15f6638b9cd73cd64e52bd852fba2bd4d8ec91",
+        "dependencies": [
+          "jsr:@std/bytes@^1.0.0-rc.3"
+        ]
+      }
+    },
+    "npm": {
+      "@types/node@18.16.19": {
+        "integrity": "sha512-IXl7o+R9iti9eBW4Wg2hx1xQDig183jj7YLn8F7udNceyfkbn1ZxmzZXuak20gR40D7pIkIY1kYGx5VIGbaHKA==",
+        "dependencies": {}
+      },
+      "fs-ext@2.0.0": {
+        "integrity": "sha512-aK8NlpSO5LUdSoWeshpnkgtptbua1rGo58Wc+mHQ2+JnoBlubMTsnV56Swl4bA0msrgAhG8TDu1aGS8deJwzBQ==",
+        "dependencies": {
+          "nan": "nan@2.20.0"
+        }
+      },
+      "nan@2.20.0": {
+        "integrity": "sha512-bk3gXBZDGILuuo/6sKtr0DQmSThYHLtNCdSdXk9YkxD/jK6X2vmCyyXBBxyqZ4XcnzTyYEAThfX3DCEnLf6igw==",
+        "dependencies": {}
+      }
+    }
+  },
+  "remote": {
+    "https://deno.land/std@0.155.0/_util/assert.ts": "e94f2eb37cebd7f199952e242c77654e43333c1ac4c5c700e929ea3aa5489f74",
+    "https://deno.land/std@0.155.0/_util/os.ts": "3b4c6e27febd119d36a416d7a97bd3b0251b77c88942c8f16ee5953ea13e2e49",
+    "https://deno.land/std@0.155.0/encoding/csv.ts": "0715a643b2a8111c919fe7584bad78f776c28ca9301e64eace3cfe4f1a0c6045",
+    "https://deno.land/std@0.155.0/encoding/csv/_io.ts": "91a61ee8ec8151126479453c71b7cb789fbb2bd224052360e39a79f81df1f3dc",
+    "https://deno.land/std@0.155.0/encoding/csv/_parser.ts": "8deb087b8f068a331b4081885ac4feef0f340deb65b6e1ab3fa83871fb3ada5f",
+    "https://deno.land/std@0.155.0/path/_constants.ts": "df1db3ffa6dd6d1252cc9617e5d72165cd2483df90e93833e13580687b6083c3",
+    "https://deno.land/std@0.155.0/path/_interface.ts": "ee3b431a336b80cf445441109d089b70d87d5e248f4f90ff906820889ecf8d09",
+    "https://deno.land/std@0.155.0/path/_util.ts": "d16be2a16e1204b65f9d0dfc54a9bc472cafe5f4a190b3c8471ec2016ccd1677",
+    "https://deno.land/std@0.155.0/path/common.ts": "bee563630abd2d97f99d83c96c2fa0cca7cee103e8cb4e7699ec4d5db7bd2633",
+    "https://deno.land/std@0.155.0/path/glob.ts": "cb5255638de1048973c3e69e420c77dc04f75755524cb3b2e160fe9277d939ee",
+    "https://deno.land/std@0.155.0/path/mod.ts": "56fec03ad0ebd61b6ab39ddb9b0ddb4c4a5c9f2f4f632e09dd37ec9ebfd722ac",
+    "https://deno.land/std@0.155.0/path/posix.ts": "c1f7afe274290ea0b51da07ee205653b2964bd74909a82deb07b69a6cc383aaa",
+    "https://deno.land/std@0.155.0/path/separator.ts": "fe1816cb765a8068afb3e8f13ad272351c85cbc739af56dacfc7d93d710fe0f9",
+    "https://deno.land/std@0.155.0/path/win32.ts": "bd7549042e37879c68ff2f8576a25950abbfca1d696d41d82c7bca0b7e6f452c"
+  },
+  "workspace": {
+    "dependencies": [
+      "jsr:@std/csv@^0.224.3",
+      "jsr:@std/fs@^0.229.0",
+      "jsr:@std/jsonc@^0.224.3",
+      "jsr:@std/path@^0.225.2"
+    ]
+  }
+}

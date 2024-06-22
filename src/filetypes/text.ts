@@ -1,4 +1,6 @@
-const text = [
+/// <reference path="../types.d.ts" />
+
+export const text: Filetype[] = [
   {
     "ext": ["csv"],
     "kind": ["Comma-Separated Values"]

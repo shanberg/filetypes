@@ -1,4 +1,6 @@
-const source = [
+/// <reference path="../types.d.ts" />
+
+export const source: Filetype[] = [
   {
     "ext": ["sass"],
     "kind": ["SASS Stylesheet (Indented)"]

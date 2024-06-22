@@ -1,4 +1,6 @@
-const certificate = [
+/// <reference path="../types.d.ts" />
+
+export const certificate: Filetype[] = [
   {
     "ext": ["cer", "crt"],
     "kind": ["Security certificate"]

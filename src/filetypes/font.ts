@@ -1,24 +1,32 @@
-const font = [
-  { "ext": ["eot"],
+/// <reference path="../types.d.ts" />
+
+export const font: Filetype[] = [
+  {
+    "ext": ["eot"],
     "mimetype": ["application/vnd.ms-fontobject"],
     "kind": ["MS Embedded OpenType fonts"],
   },
-  { "ext": ["otf"],
+  {
+    "ext": ["otf"],
     "mimetype": ["font/otf"],
     "kind": ["OpenType font"],
   },
-  { "ext": ["r8p"],
+  {
+    "ext": ["r8p"],
     "kind": ["Intellifont bitmap font file"]
   },
-  { "ext": ["ttf"],
+  {
+    "ext": ["ttf"],
     "mimetype": ["font/ttf"],
     "kind": ["TrueType Font"],
   },
-  { "ext": ["woff"],
+  {
+    "ext": ["woff"],
     "mimetype": ["font/woff"],
     "kind": ["Web Open Font Format (WOFF)"],
   },
-  { "ext": ["woff2"],
+  {
+    "ext": ["woff2"],
     "mimetype": ["font/woff2"],
     "kind": ["Web Open Font Format (WOFF)"],
   },

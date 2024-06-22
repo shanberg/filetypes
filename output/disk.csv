@@ -1,0 +1,12 @@
+ext,mimetype,kind
+adz,,Amiga Disk Zipped
+d64,,Commodore 64 disk image
+d88,,Toshiba Pasopeia D88 disk image
+ddi,,DiskDupe Disk Image
+dmg,,Apple Disk Image
+ede,,AWAVE Ensoniq EPS disk image
+esd,,Windows Imaging Format disk image
+swm,,Split Windows Imaging Format disk image
+vdi,,VirtualBox Virtual Disk Image
+vfd,,Virtual Floppy Disk image
+vmdk,,VMware Virtual Disk file

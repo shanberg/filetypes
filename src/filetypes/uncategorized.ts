@@ -1,4 +1,6 @@
-const uncategorized = [
+/// <reference path="../types.d.ts" />
+
+export const uncategorized: Filetype[] = [
   {
     "ext": ["accdb"],
     "kind": ["Microsoft Access Database"]
@@ -98,7 +100,7 @@ const uncategorized = [
   },
   {
     "ext": ["cdf"],
-    "kind": ["Common Data Format","Mathematica Computable Document Format"]
+    "kind": ["Common Data Format", "Mathematica Computable Document Format"]
   },
   {
     "ext": ["chm"],
@@ -154,7 +156,7 @@ const uncategorized = [
   },
   {
     "ext": ["dat"],
-    "kind": ["AMPL data file","Siemens Maxum Chromatograph chromatogram","LDraw 3D Model","Microsoft Word Document","RSNetWorx Project data","Data file in special format or ASCII","Clarion Database","Norton Utilities disc image data","Optical disc image","Video CD MPEG stream","Windows registry hive","Minecraft game data"]
+    "kind": ["AMPL data file", "Siemens Maxum Chromatograph chromatogram", "LDraw 3D Model", "Microsoft Word Document", "RSNetWorx Project data", "Data file in special format or ASCII", "Clarion Database", "Norton Utilities disc image data", "Optical disc image", "Video CD MPEG stream", "Windows registry hive", "Minecraft game data"]
   },
   {
     "ext": ["dats"],
@@ -166,11 +168,11 @@ const uncategorized = [
   },
   {
     "ext": ["db"],
-    "kind": ["Database","dBASE/dBFast Configuration","Multi Edit config"]
+    "kind": ["Database", "dBASE/dBFast Configuration", "Multi Edit config"]
   },
   {
     "ext": ["db$"],
-    "kind": ["Clarion Modula-2 Temperature debug info","dBASE Temporary file"]
+    "kind": ["Clarion Modula-2 Temperature debug info", "dBASE Temporary file"]
   },
   {
     "ext": ["db2"],
@@ -230,11 +232,11 @@ const uncategorized = [
   },
   {
     "ext": ["dbs"],
-    "kind": ["Managing Your Money Data file","Database in SQL Windows format","PRODAS Datafile","SQL Windows Datafile","MS Word/MS Worsk Printer description"]
+    "kind": ["Managing Your Money Data file", "Database in SQL Windows format", "PRODAS Datafile", "SQL Windows Datafile", "MS Word/MS Worsk Printer description"]
   },
   {
     "ext": ["dbt"],
-    "kind": ["FoxPro 2.x FoxBASE+ style memo","dBASE/dBFast Memo file"]
+    "kind": ["FoxPro 2.x FoxBASE+ style memo", "dBASE/dBFast Memo file"]
   },
   {
     "ext": ["dbw"],
@@ -266,7 +268,7 @@ const uncategorized = [
   },
   {
     "ext": ["dct"],
-    "kind": ["Dictionary file","Clarion Dictionary","Harvard Graphics 3.0 Spell checking dictionary","Visual FoxPro DataBaseContainer Extension"]
+    "kind": ["Dictionary file", "Clarion Dictionary", "Harvard Graphics 3.0 Spell checking dictionary", "Visual FoxPro DataBaseContainer Extension"]
   },
   {
     "ext": ["dcu"],
@@ -298,7 +300,7 @@ const uncategorized = [
   },
   {
     "ext": ["dem"],
-    "kind": ["Demonstration", "Digital Elevation Model", "VistaPro Graphics file","Meta.exe VP3 Vista DEM file"]
+    "kind": ["Demonstration", "Digital Elevation Model", "VistaPro Graphics file", "Meta.exe VP3 Vista DEM file"]
   },
   {
     "ext": ["des"],
@@ -314,7 +316,7 @@ const uncategorized = [
   },
   {
     "ext": ["dev"],
-    "kind": ["Device driver", "RT-11 SYSGEN handler build procedure","Dev-C++ project file"]
+    "kind": ["Device driver", "RT-11 SYSGEN handler build procedure", "Dev-C++ project file"]
   },
   {
     "ext": ["dfi"],
@@ -370,7 +372,7 @@ const uncategorized = [
   },
   {
     "ext": ["dif"],
-    "kind": ["Borland patch data file","Visicalc Data Interchange Format","OS/2 Display Information File","Diff output","RT-11 SRCCOM, BINCOM output file"]
+    "kind": ["Borland patch data file", "Visicalc Data Interchange Format", "OS/2 Display Information File", "Diff output", "RT-11 SRCCOM, BINCOM output file"]
   },
   {
     "ext": ["dig"],
@@ -434,7 +436,7 @@ const uncategorized = [
   },
   {
     "ext": ["dlg"],
-    "kind": ["Microsoft Windows SDK Dialog resource script file", "DN Dialog resources","Windows SDK dialog editor data file"]
+    "kind": ["Microsoft Windows SDK Dialog resource script file", "DN Dialog resources", "Windows SDK dialog editor data file"]
   },
   {
     "ext": ["dll"],
@@ -558,7 +560,7 @@ const uncategorized = [
   },
   {
     "ext": ["f"],
-    "kind": ["FREEZE Archive", "Forth language source code file","Fortran language source code file (Fixed)"]
+    "kind": ["FREEZE Archive", "Forth language source code file", "Fortran language source code file (Fixed)"]
   },
   {
     "ext": ["f01"],
@@ -776,7 +778,7 @@ const uncategorized = [
   },
   {
     "ext": ["obj"],
-    "kind": ["Compiled machine language code","Intel Relocatable Object Module Object code","Wavefront 3D Object"]
+    "kind": ["Compiled machine language code", "Intel Relocatable Object Module Object code", "Wavefront 3D Object"]
   },
   {
     "ext": ["ocx"],
@@ -901,7 +903,7 @@ const uncategorized = [
   },
   {
     "ext": ["pl"],
-    "kind": ["Perl source code", "Prolog source code","IRAF astronomical data pixel list"]
+    "kind": ["Perl source code", "Prolog source code", "IRAF astronomical data pixel list"]
   },
   {
     "ext": ["pli"],
@@ -1294,7 +1296,8 @@ const uncategorized = [
   },
   {
     "ext": ["vrs"],
-    "kind": ["WordPerfect Video Resource e.g. video device driver"], "metaType": "unknown" },
+    "kind": ["WordPerfect Video Resource e.g. video device driver"], "metaType": "unknown"
+  },
   {
     "ext": ["vs"],
     "kind": ["Vivid 2.0 Include file with surface definition"]

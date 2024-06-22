@@ -1,0 +1,18 @@
+[
+  {
+    "ext": [
+      "evt"
+    ],
+    "kind": [
+      "Windows Event log file"
+    ]
+  },
+  {
+    "ext": [
+      "evtx"
+    ],
+    "kind": [
+      "Windows Event log file (XML)"
+    ]
+  }
+]

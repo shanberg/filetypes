@@ -1,0 +1,380 @@
+ext,mimetype,kind
+accdb,,Microsoft Access Database
+accft,,Microsoft Access Data Type Template
+adt,,xDT Abrechnungsdatentransfer
+advantage,,Database Server
+adx,,Archetype Designer Document
+agr,,ArcView ASCII grid
+aio,,APL programming language file transfer
+air,,Adobe AIR installation package
+akm,,Akai Multitimbral sample information
+akp,,Akai Program sample information
+ale,,Avid Log Exchange
+all,,WordPerfect General printer information
+amg,,ACTOR System image
+aml,,AutomationML
+amlx,,AutomationML (Compressed)
+ann,,Windows Help file Annotation
+asax,,ASP.NET global application
+ascx,,ASP.NET User Control
+ashx,,ASP.NET handler
+asx,,Advanced Stream Redirector
+bar,,IMB WebSphere Broker archive
+bdt,,xDT Behandlungsdatentransfer
+bin,application/octet-stream,Binary data
+cd,,ASP.NET class diagram
+cdf,,"Common Data Format, Mathematica Computable Document Format"
+chm,,Compiled Help file
+cho,,ChordPro lead sheet
+cif,,Crystallographic Information
+cmd,,Command Prompt batch file
+cmod,,Celestia Model
+coe,,Xilinx ISE Coefficient file
+compile,,ASP.NET precompiled stub
+cpl,,Windows 3.x Control panel
+crai,,CRAM index
+d,,Unix configuration files directory
+dae,,COLLADA file
+daf,,Digital Anchor Data File
+dal,,Helvar Digidim system
+dat,,"AMPL data file, Siemens Maxum Chromatograph chromatogram, LDraw 3D Model, Microsoft Word Document, RSNetWorx Project data, Data file in special format or ASCII, Clarion Database, Norton Utilities disc image data, Optical disc image, Video CD MPEG stream, Windows registry hive, Minecraft game data"
+dats,,Dynamic source
+dav,,DVR365 or AlienDVR Proprietary DVR format
+db,,"Database, dBASE/dBFast Configuration, Multi Edit config"
+db$,,"Clarion Modula-2 Temperature debug info, dBASE Temporary file"
+db2,,dBASE II Database
+db3,,dBASE III Database
+dba,,Turbo Prolog/DataEase Database
+dbc,,Visual FoxPro DataBaseContainer
+dbd,,Clarion Modula-2 Business Insight Business data
+dbd,,Clarion Modula-2 Debug info
+dbf,,Database File
+dbg,,Microsoft C/C++ Symbolic debugging information
+dbk,,dBASE IV Database backup
+dbl,,EAGLE Design Block
+dbm,,DataBoss Menu template
+dbm,,DataEase Datafile
+dbo,,dBASE IV Compiled program
+dbpro,,DarkBasicPro Project
+dbs,,"Managing Your Money Data file, Database in SQL Windows format, PRODAS Datafile, SQL Windows Datafile, MS Word/MS Worsk Printer description"
+dbt,,"FoxPro 2.x FoxBASE+ style memo, dBASE/dBFast Memo file"
+dbw,,DataBoss Windows file
+dbx,,GCGW DataBeam
+dca,,IBM DisplayWrite Document Content Architecture text
+dci,,Dreamcast Save File
+dcl,,Borland Delphi Control Library
+dcp,,OS/2 Device Code Page
+dcs,,ACT! Activity Datafile
+dct,,"Dictionary file, Clarion Dictionary, Harvard Graphics 3.0 Spell checking dictionary, Visual FoxPro DataBaseContainer Extension"
+dcu,,Delphi Unit (Compiled)
+dcx,,"Multi-page PCX graphics (common fax format), Visual FoxPro DataBaseContainer Index"
+ddb,,"Bitmap graphics, Digidesign Database File"
+ddp,,OS/2 Device Driver Profile file
+dds,,Microsoft DirectDraw Surface file
+deb,,"Unix Archive, DOS DEBUG script"
+def,,"Geoworks Assembly header file, Defaults-definitions, TLinkl/WLink Linker definition file"
+dem,,"Demonstration, Digital Elevation Model, VistaPro Graphics file, Meta.exe VP3 Vista DEM file"
+des,,AWAVE Ascii text parameter description
+desklink,,Windows Explorer Desktop Control
+desktop,,Desktop Entry
+dev,,"Device driver, RT-11 SYSGEN handler build procedure, Dev-C++ project file"
+dfi,,Digifont Outline font description
+dfl,,Signature Default program settings
+dfm,,Delphi Form Module
+dfm,,Prosa Data Flow Diagram model file
+dfti,,FlexiWrite Dynamic Formatted Text and Images (Word Processing)
+dfv,,Microsoft Word Printing form (Word)
+dfx,,Micrografx Effects DLL
+dgs,,Diagnostics
+dh,,Geoworks Dependency information for .ph
+dht,,Gauss Datafile
+di,,DMD D Programming Language interface
+dia,,Computer Support Corporation Diagraph graphics
+dic,,Dictionary
+dif,,"Borland patch data file, Visicalc Data Interchange Format, OS/2 Display Information File, Diff output, RT-11 SRCCOM, BINCOM output file"
+dig,,AWAVE Digilink
+dip,,DipTrace PCB Layout PCB Drawing file
+dip,,WatcomDebugger debug info processor
+dir,,Procomm Plus Dialing directory file
+dir,,RT-11 Directory listing file
+dir,,VAX - CPS Backup Directory
+dired,,Dired Directory listing (ls format)
+dis,,CorelDraw Thesaurus
+dis,,VAX Mail Distribution file
+diz,,Zip Description file
+djvu,,DJVU Document Format
+dl,,DL Viewer Animation format
+dlc,,JDownloader Link Container
+dld,,Lotus 1-2-3 Data
+dlf,,Exstream Dialogue Live Format
+dlg,,"Microsoft Windows SDK Dialog resource script file, DN Dialog resources, Windows SDK dialog editor data file"
+dll,,"Dynamic-link library, CorelDRAW Export/import filter"
+dlm,,Microsoft File Transfer Manager file
+dlp,,DAQLab Data
+dls,,Norton Disklock Setup
+dmf,,"Delusion Music File, DeleD files"
+dmo,,Derive Demo
+dmp,,"Dump file, RT-11 DUMP utility output file"
+dof,,Delphi project options file
+dog,,Laughing Dog Screen Maker Screen file
+dpf,,Debrief Plot File
+dru,,EAGLE Design Rules
+dsc,,Celestia Deep Space Catalog file
+dtd,,Document Type Definition
+dxp,,TIBCO SpotFire data
+e##,,EnCase Forensic Analysis Suite entity
+e00,,GIS ArcInfo interchange file
+ebd,,Windows Emergency Boot Disk System File
+ecc,,DVDisaster Error-checking file
+edf,,Medical timeseries storage file
+efi,,Extensible Firmware Interface
+eis,,EIS Spectrum Analyser EIS Spectrum Analyser Project
+el,,Emacs Lisp source code file
+elc,,Emacs Byte-compiled Lisp code
+ep,,Prikhi/Evolus GUI wireframe/prototype project
+epa,,Award BIOS splash screen
+es6,,ECMAScript 6 file
+escpcb,,Electro-System esCAD PCB
+escsch,,Electro-System esCAD Schematic
+exp,,"Drawing Express Drawing, Embroidermodder Melco Embroidery Format"
+ezw,,easyOFFER Document
+f,,"FREEZE Archive, Forth language source code file, Fortran language source code file (Fixed)"
+f01,,PerfectFax Fax
+f4v,,Adobe Flash container
+fen,,Chess Position (Forsyth–Edwards Notation)
+flame,,Apophysis Fractal configuration file
+fni,,FileNet Native Document
+frm,,MySQL Database Metadata
+gbr,application/vnd.gerber,
+gdf,,Brain Computer Interfaces General Data Format for Biomedical Signals
+gdt,,xDT Gerätedatentransfer
+ged,,Genealogy Data Exchange File
+ggb,,GeoGebra File
+gpx,,GPS Exchange Format
+gtf,,Gene transfer format
+gv,,Graphviz Graph Visualization
+h!,,"Flambeaux Help! Display Engine On-line help file, HELP.EXE Pertext database"
+har,,W3C HTTP Archive format (JSON-format web-browser log)
+hdmp,,Heap dumpfile
+hta,,Microsoft Windows HTML Application
+icc,,ICC Color Profile
+ice,,Total Commander LHA Archive
+ics,text/calendar,iCalendar format
+ifc,,BIM Industry Foundation Classes
+io,,CPIO Archive
+ipt,,XnView IPTC template
+iso,,see: List of ISO image software ISO-9660 table // FIXME
+jcal,application/calendar+json,iCal calendar (JSON)
+jnlp,,Java Network Launching Protocol
+ldt,,xDT Labordatenträger
+ly,,LilyPond Notation File
+m,,"Mathematica Package File, MATLAB M-File, Mercury Source File, Objective-C Source code"
+mdf,,"Microsoft SQL Server file type, Measurement Data Format"
+mdg,,DInsight Digital Geometric Kernel Digital Geometry format
+mex,,Matlab Executable file
+mmpz,,LMMS Compressed Project File
+mod,,AMPL model file
+mol,,RasMol MDL Molfile
+mol2,,Tripos Sybyl MOL2 Format
+mop,,MOPAC input file
+mpd,,LDraw file
+msc,,Microsoft MMC management saved console
+msf,,"Multiple sequence file (pileup format), Windows operating systems Windows Installer Package"
+mso,,Microsoft Word 2000 email attachment metadata
+"myd, myi",,MySQL MyISAM data file
+nc,,Name code program
+nc,,NC CAMS Instructions
+nc,,netCDF software package Binary Data
+ncd,,PCB Layout NC Drill File (Excellon)
+neis,,Korean Student Record Document
+neu,,PTC Pro/Engineer Neutral format
+nmf,,SpicyNodes Map File
+npr,,Steinberg Nuendo Project File
+ns1,,NetStumbler file
+nsa,,Nullsoft Streaming Audio media
+obj,,"Compiled machine language code, Intel Relocatable Object Module Object code, Wavefront 3D Object"
+ocx,,OLE custom control
+ogx,application/ogg,OGG
+org,,"Emacs Org mode file, Origin versions 4 or earlier Older Origin Project"
+ost,,Microsoft Outlook Offline Storage Table
+otl,,Vim Outliner plugin
+owl,,Protégé Web ontology language file
+oxt,,LibreOffice/OpenOffice.org extension
+p10,,Certificate Request
+p12,,'Crypto Shell Extensions' Personal Information Exchange
+pal,,PaintShop/XnView Color Palette (JASC)
+pblib,,PowerBASIC Power Library
+pbo,,Bohemia Interactive PBO Manager
+pcs,,PCSurvey Land Surveying file
+pdb,,Microsoft Windows debugging data
+pdi,,Portable Database Image
+pdm,,Deskmate Program
+pdm,,PowerDesigner Physical Data Model
+pdm,,Visual Basic Project Information File
+pds,,PALASM Design Description
+pds,,Planetary Data System Format
+pet,,Puppy Linux package
+pfa,,"PostScript Font File, PostScript Font File (Unhinted)"
+pfb,,Adobe Type Manager PostScript font
+pfc,,AOL Personal Filing Cabinet
+pfm,,Windows Font Metric file
+pgn,,Chess Portable Game Notation
+phf,,Nuverb Donarius Database File
+phr,,LocoScript Phrases
+phy,,Phylip file
+pit,,Samsung Odin3 Partition Information Table
+pl,,"Perl source code, Prolog source code, IRAF astronomical data pixel list"
+pli,,PL/I compilers PL/I source code
+pma,,PMarc Archive
+pom,,Apache Maven POM file Build manager configuration file
+prj,,Mkd project file
+proto,,Google Protocol Buffers Message
+prp,,Plasma Registry Page
+psm1,,Windows Powershell module
+psppalette,,Paint Shop Pro color palette (JASC format)
+ptf,,"PSP Theme settings menu PlayStation Portable Theme file, Digidesign Pro Tools Pro Tools Session File"
+pub,,PGP RSA System Public key ring file
+puf,,"Crestron Toolbox Package Update File (Device firmware package, in ZIP format)"
+pup,,Pileup format
+qfx,,Quicken OFX file
+qif,,Quicken Interchange Format
+r,,Ratfor file
+r2d,,Reflex 2 datafile
+ral,,Remote Access Language file
+ram,,RealAudio Ramfile
+rap,,RAPTOR Flowchart
+rbxl,,Roblox level
+rbxm,,Roblox model
+rc,,Bash Configuration file
+rdp,,Remote Desktop connection
+rds,,R Data file
+rpm,,Red Hat Package Manager file
+rst,,Docutils reStructuredText
+run,,"AMPL script file, Shell Self-extracting Archive"
+s,,Unix source code file
+s7i,,Seed7 Library/Include file
+sats,,ATS Static source
+sav,,PSPP SPSS System File
+sb,,Scratch project
+sb2,,Scratch 2.0 project
+sb3,,Scratch 3.0 project
+sbh,,ScriptBasic Header
+sbx,,ScratchX Experimental Extension
+sbx,,SeqBox Sequenced Box Container
+sd7,,Seed7 Source File
+sds,,geographic information systems and relational database management systems Self Defining Structure provides for N-dimensional very large datasets using HHCode // FIXME
+sec,,PGP Secret key ring file
+sed,,IExpress Self extraction directive file
+sf,,JAR Digital Signature
+sfb,,Emacs Configuration file
+shp,,PYIource file for text fonts
+shtml,,Server Side Includes SSI-enabled HTML file
+shx,,Shape entities
+smclvl,,Secret Maryo Chronicles Level
+so,,Shared object/dynamically linked library
+spf,,SQR Portable Format data
+spin,,Parallax Propeller Microcontrollers Spin source file
+spx,,Ogg Speex bitstream
+spz,,Crestron SIMPL Windows compiled program (ZIP)
+sql,,SQL database
+ssc,,Celestia Solar System Catalog file
+ssc,,Stellarium Script
+stc,,Celestia Star Catalog file
+stm,,Server Side Includes SSI-enabled HTML file
+svc,,ServiceHost Instance
+swf,,Macromedia Shockwave Flash
+swf,application/x-shockwave-flash,Small web format (SWF) or Adobe Flash document
+sxm,,OpenOffice.org XML formula
+torrent,,Torrent file
+ui,,Geoworks UI Compiler source code file
+ui,,Qt Designer UI File
+unv,,Simulation data file
+uot,,Uniform Office Format text
+ut!,,uTorrent datafile
+v,,"ReaGeniX Check support file, Vivid 2.0 Main input file, Coq source file, Verilog source file"
+v4p,,vvvv patch
+v64,,Nintendo 64 ROM
+vbox-extpack,,VirtualBox extension package
+vbox,,VirtualBox virtual machine settings file (XML)
+vbr,,Visual Basic Custom Control file
+vbx,,Visual Basic Extension
+vbz,,Visual Basic Setup Wizard Template
+vcls,,VocaListener voice scanner file
+vdo,,Story Board video image
+vdoc,,VinylMaster Cut Document
+vdr,,ComputerEasy Draw Drawing
+veg,,Sony Vegas Project
+vew,,Lotus Approach View file
+vf0,,OTExpert 5 Database file
+vfa,,FontLab Database file
+vfm,,Ventura Font Metrics file
+vmcz,,Microsoft Hyper-V Exported Virtual Machine
+vmf,,Ventura Publisher Font characteristics
+vmg,,Nokia PC Suite Text Message Editor message file format
+vms,,VMS Text file
+vmt,,Source Engine resource file
+vo,,Vivid Include file with object definition
+vpm,,Garmin Voice Processing Module
+vpp,,UML Visual Paradigm Project
+vqa,,The Legend of Kyrandia Vector Quantized Animation
+vqm,,Altera Hardware description language
+vrm,,QuattroPro Overlay file
+vrm,,WATCOM VREXX Visual rexx source
+vrp,,WATCOM VX?Rexx Project
+vrs,,WordPerfect Video Resource e.g. video device driver
+vs,,Vivid 2.0 Include file with surface definition
+vsl,,Microsoft Visio add-on
+vsm,,VisSim Visual Simulation Model
+vsp,,SPX Sprite
+vsq,,Vocaloid3 Vocal synthesizer track data
+vsqx,,Vocaloid3 Vocal synthesizer track data
+vss,,Microsoft Visio Stencil
+vssm,,Microsoft Visio Stencil (Macro-enabled)
+vssx,,Microsoft Visio Stencil
+vst,,"Microsoft Visio Template, Truevision Vista graphics"
+vsto,,Microsoft Visual Studio Microsoft Office add-in file
+vsvnbak,,VisualSVN Server VisualSVN Server repository backup
+wmdb,,Windows Media Player database
+x,,"SDSC Image Tool AVS X image file, DirectX 3D object, LEX source code file, XBasic Source code"
+x3g,,Makerbot desktop Makerbot-specific gcode
+xa,,XA audio file
+xadr,,Crestron Toolbox address book file
+xbrl,,Extensible Business Reporting Language instance file
+xdm,,Xenotech Research Labs Directory Manipulator for 32-bit Protected Mode
+xeph,,PixInsight Solar System Ephemeris Data File
+xisb,,PixInsight Extensible Image Serialization Format Data Blocks File
+xisf,,PixInsight Extensible Image Serialization Format File (Monolithic)
+xish,,PixInsight Extensible Image Serialization Format Header File
+xla,,Microsoft Excel Add-in macro sheet
+xlb,,Microsoft Excel Toolbar
+xlc,,Microsoft Excel Chart
+xld,,Microsoft Excel Dialog
+xlf,,LadarSIM Extensible LADAR Format
+xll,,Microsoft Excel Dynamic Link Library
+xlm,,Microsoft Excel Macro File
+xlt,,"Lotus Translation Table, IBM i Access Client Translation Table, Biew Xlat Table"
+xlv,,Microsoft Excel Module
+xm,,FastTracker 2 extended module
+xmc,,Classmates iPhone App Assisted Contact Lists
+xmi,,"MIDI music (Compressed extended), XML Metadata Interchange"
+xmod,,Monarch Model
+xmpz,,Miradi XML Miradi Project Zipfile
+xnf,,Standard Network File form
+xnk,,Microsoft Outlook Entity Shortcut
+xnn,,Borland Paradox Secondary indexes
+xosm,,PixInsight Project File
+xp,,FastTracker 2 Extended Pattern
+xpl,,Laminar Research X-Plane system file
+xpo,,Microsoft Dynamics AX Export
+xps,,Open XML Paper Specification
+xqt,,SuperCalc Macro sheet
+xrm-ms,,SuperCalc XrML Digital License
+xsd,,XML schema description
+xsf,,Microsoft InfoPath file
+xsn,,Microsoft InfoPath template
+xspf,,XML Sharable Playlist Format
+xtb,,LocoScript External translation table
+xx,,XXDECODE XX-encoded file (ASCII)
+xxe,,XXDECODE XX-encoded file (ASCII)
+xxx,,Singer Embroidery Format
+y,,Yacc/Bison Grammar file

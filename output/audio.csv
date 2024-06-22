@@ -1,0 +1,30 @@
+ext,mimetype,kind
+aac,audio/aac,AAC audio
+aiff,,Audio Interchange File Format
+ape,,Monkey's Audio (Lossless)
+at3,,Sony Atrac 3 sound/music
+dcm,,AWAVE DCM music module
+dfs,,Delight sound
+dig,,AWAVE Sound Designer 1 audio
+dor,,Roland Roland Digital audio
+flac,,FLAC Audio format
+it,,Impulse Tracker music
+mds,,Sound Imp. Midi Session
+"midi, mid","audio/midi, audio/x-midi",Musical Instrument Digital Interface (MIDI)
+mp2,,MPEG audio
+mp3,,MP3 audio
+mp3,audio/mpeg,MP3 audio
+mp4,,MP4 audio
+mpa,,"MPEG audio, layer 1,2,3"
+mpc,,Musepack audio
+oga,audio/ogg,OGG audio
+opus,,Ogg/Opus audio
+opus,audio/opus,Opus audio
+rad,,Reality AdLib Tracker 2-op FM music
+sts,,Scream Tracker Song
+tak,,BE audio (Lossless)
+wav,audio/wav,Waveform audio
+weba,audio/webm,WEBM audio
+wma,,Windows Media audio
+xm,,FastTracker 2 Cubic Player Music
+xmf,,Extensible Music Format

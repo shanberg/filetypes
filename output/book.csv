@@ -1,0 +1,4 @@
+ext,mimetype,kind
+"azw, mobi",application/vnd.amazon.ebook,Mobipocket/Amazon Kindle eBook
+epub,application/epub+zip,Electronic Publication (EPUB)
+fb2,,FictionBook e-book 2.0 file (DRM-free XML)

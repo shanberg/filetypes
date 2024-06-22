@@ -1,0 +1,14 @@
+ext,mimetype,kind
+adicht,,LabChart data acquisition
+alc,,Molecular coordinates
+fa,,FASTA format sequence
+faa,,FASTA format amino acid
+fasta,,FASTA format sequence
+fastq,,FASTQ format sequence
+ffn,,FASTA Format Nucleotide of gene regions
+fna,,FASTA Format Nucleic Acid
+pdb,,Molecule (Protein Data Bank)
+pfam,,PFAM Format (chemical)
+pir,,Protein Information Resource
+"sto, stk",,Stockholm multiple sequence alignment
+xyz,,Molecular coordinates

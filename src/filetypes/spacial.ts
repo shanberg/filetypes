@@ -1,4 +1,6 @@
-const spacial = [
+/// <reference path="../types.d.ts" />
+
+export const spacial: Filetype[] = [
   {
     "ext": ["xyz"],
     "kind": ["Molecular coordinates"]

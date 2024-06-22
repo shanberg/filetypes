@@ -1,5 +1,6 @@
+/// <reference path="../types.d.ts" />
 
-const book = [
+export const book: Filetype[] = [
   {
     "ext": ["azw", "mobi"],
     "mimetype": ["application/vnd.amazon.ebook"],

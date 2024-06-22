@@ -1,0 +1,61 @@
+ext,mimetype,kind
+ai,,Adobe Illustrator Artwork
+ani,,Animated Cursor
+apng,image/apng,Animated Portable Network Graphics
+art,,Gerber Image format
+avif,image/avif,AV1 Image File Format
+bmp,,Bitmap Image
+bmp,image/bmp,Bitmap file
+cdr,,CorelDraw Vector graphics
+cgm,,Computer Graphics Metafile vector graphics
+cpc,,Cartesian Perceptual Compressed image
+cr2,,Canon Raw image
+dc6,,Diablo II Image
+dcc,,Diablo II Animation
+dcs,,QuarkXPress Bitmap graphics (CYMK format)
+dfd,,Prosa Data Flow Diagram graphic
+dgn,,MicroStation Graphics file
+dhp,,Dr. Halo PIC Format graphics file
+dib,,Win-OS/2 Device Independent Bitmap
+dicom,,XnView DICOM bitmap
+dip,,Graphic
+dng,,Digital camera raw image file
+e2d,,JFire 2-dimensional vector graphics file
+emf,"x-emf, image/emf",Microsoft Enhanced Metafile
+emz,,Microsoft Enhanced Metafile (Compressed)
+eps,,Encapsulated PostScript
+fits,,Flexible Image Transport System
+gif,,GIF Image
+gif,image/gif,Graphics Interchange Format
+"ico, cur",image/x-icon,Microsoft Icon
+ico,,Microsoft Windows Icon file
+ico,image/vnd.microsoft.icon,Icon format
+iges,,Initial Graphics Exchange Specification
+j2c,,JPEG 2000 image
+jbig,,JBIG Image
+jp2,,JPEG 2000 image
+jpeg,,JPEG image
+"jpg, jpeg, jfif, pjpeg, pjp",image/jpeg,JPEG Image
+mdi,,Microsoft Office OCR Scan
+nef,,Nikon RAW image format
+neo,,Atari Neochrome Raster graphics file
+nrw,,Nikon Coolpix RAW image
+otb,,Over-the-air bitmap graphics
+pcl,,HP-PCL graphics
+pdn,,Paint.NET Image file
+pgl,,HP Plotter vector graphics
+pi2,,Portrait Innovations Studio2 High Resolution Encrypted Image file
+png,image/png,Portable Network Graphics
+psd,,Photoshop Document
+ras,,SUN Raster Graphics format
+spiff,,Still Picture Interchange File Format Image
+svg,,Scalable Vector Graphics Image
+svg,image/svg+xml,Scalable Vector Graphics (SVG)
+svg,image/svg+xml,Scalable Vector Graphics
+"tga, icb, vda, vst","image/x-targa, image/x-tga",Targa bitmap graphic
+"tif, tiff",image/tiff,Tagged Image File Format
+webp,image/webp,Web Picture format
+wmf,,Windows MetaFile vector graphics
+xar,,Xara graphics file
+xcf,,GIMP image file
+xpm,,X11 Pixel Map graphics

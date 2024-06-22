@@ -1,4 +1,5 @@
-const archive = [
+/// <reference path="../types.d.ts" />
+export const archive: Filetype[] = [
   {
     "ext": ["7z"],
     "mimetype": ["application/x-7z-compressed"],

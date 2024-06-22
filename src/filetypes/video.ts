@@ -1,4 +1,6 @@
-export const video = [
+/// <reference path="../types.d.ts" />
+
+export const video: Filetype[] = [
   {
     "ext": ["3ds"],
     "kind": ["3D Studio Graphics format"]
@@ -53,7 +55,8 @@ export const video = [
   },
   {
     "ext": ["flv"],
-    "kind": ["Adobe Flash Video"] }
+    "kind": ["Adobe Flash Video"]
+  },
   {
     "ext": ["mcf"],
     "kind": ["Multimedia Container Format"]

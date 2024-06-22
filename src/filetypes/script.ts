@@ -1,4 +1,6 @@
-const script = [
+/// <reference path="../types.d.ts" />
+
+export const script: Filetype[] = [
   {
     "ext": ["ahk"],
     "kind": ["AutoHotkey Script"]

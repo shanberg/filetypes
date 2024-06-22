@@ -1,4 +1,6 @@
-const executable = [
+/// <reference path="../types.d.ts" />
+
+export const executable: Filetype[] = [
   {
     "ext": ["c32"],
     "kind": ["COMBOOT Executable (32-bit)"],

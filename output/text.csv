@@ -1,0 +1,6 @@
+ext,mimetype,kind
+csv,,Comma-Separated Values
+md,,Text file (Markdown)
+rtf,application/rtf,Text file (RTF)
+tsv,,Tab-Separated Values
+txt,text/plain,Text file

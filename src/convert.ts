@@ -1,58 +1,87 @@
-/// <reference lib="deno.ns" />
-import { ensureDir, readJson, writeJson } from "https://deno.land/std@0.155.0/fs/mod.ts";
-import { stringify } from "https://deno.land/std@0.155.0/encoding/csv.ts";
-import { join } from "https://deno.land/std@0.155.0/path/mod.ts";
+/// <reference path="./types.d.ts" />
+import { ensureDir } from "@std/fs";
+import { join, resolve, toFileUrl } from "@std/path";
+import { stringify } from "@std/csv";
 
-// Function to read JSON files from the input directory
-async function readGroupFiles(inputDir: string) {
+// Function to dynamically import TypeScript files from the input directory
+async function importGroupFiles(inputDir: string): Promise<{ groupData: Record<string, Filetype[]> }> {
+  console.log(`Reading files from directory: ${inputDir}`);
   const files = await Deno.readDir(inputDir);
-  const data: any[] = [];
-  const groupData: Record<string, any[]> = {};
+  const groupData: Record<string, Filetype[]> = {};
 
   for await (const file of files) {
-    if (file.isFile && file.name.endsWith(".json")) {
+    if (file.isFile && file.name.endsWith(".ts")) {
       const filePath = join(inputDir, file.name);
-      const group = file.name.replace(".json", "");
-      const groupItems = await readJson(filePath) as any[];
+      const absoluteFilePath = resolve(filePath); // Convert to absolute path
+      const group = file.name.replace(".ts", "");
+      console.log(`Importing file: ${file.name} as group: ${group}`);
 
-      data.push(...groupItems);
-      groupData[group] = groupItems;
+      try {
+        const moduleUrl = toFileUrl(absoluteFilePath).href;
+        const module = await import(moduleUrl);
+        if (module[group]) {
+          groupData[group] = module[group];
+          console.log(`Successfully imported file: ${file.name}`);
+        } else {
+          console.warn(`No export named '${group}' found in file: ${file.name}`);
+        }
+      } catch (error) {
+        console.error(`Error importing file: ${file.name}`, error);
+      }
+    } else {
+      console.log(`Skipping non-TypeScript file: ${file.name}`);
     }
   }
 
-  return { data, groupData };
+  console.log(`Finished reading files from directory: ${inputDir}`);
+  return { groupData };
+}
+
+// Function to flatten the data structure for CSV
+function flattenData(items: Filetype[]): Record<string, string>[] {
+  return items.map(item => ({
+    ext: (item.ext || []).join(', '),
+    mimetype: (item.mimetype || []).join(', '),
+    kind: (item.kind || []).join(', ')
+  }));
 }
 
 // Function to write JSON and CSV files
-async function writeFiles(data: any[], groupData: Record<string, any[]>) {
-  const outputDir = './output';
+async function writeFiles(groupData: Record<string, Filetype[]>, outputDir: string): Promise<void> {
   await ensureDir(outputDir);
-
-  // Combined JSON and CSV
-  const combinedJSON = `${outputDir}/all.json`;
-  const combinedCSV = `${outputDir}/all.csv`;
-
-  await writeJson(combinedJSON, data, { spaces: 2 });
-  const csv = await stringify(data);
-  await Deno.writeTextFile(combinedCSV, csv);
 
   // Grouped JSON and CSV files
   for (const [group, items] of Object.entries(groupData)) {
-    const jsonFile = `${outputDir}/${group}.json`;
-    const csvFile = `${outputDir}/${group}.csv`;
+    if (!items) {
+      console.warn(`No items found for group: ${group} `);
+      continue;
+    }
 
-    await writeJson(jsonFile, items, { spaces: 2 });
-    const groupCSV = await stringify(items);
+    const jsonFile = join(outputDir, `${group}.json`);
+    const csvFile = join(outputDir, `${group}.csv`);
+
+    console.log(`Writing JSON file: ${jsonFile} `);
+    await Deno.writeTextFile(jsonFile, JSON.stringify(items, null, 2));
+
+    // Flatten data for CSV
+    const flattenedData = flattenData(items);
+    console.log(`Flattened data for group: ${group} `, flattenedData);
+    const groupCSV = await stringify(flattenedData, { columns: ["ext", "mimetype", "kind"], headers: true });
+
+    console.log(`Writing CSV file: ${csvFile} `);
     await Deno.writeTextFile(csvFile, groupCSV);
   }
 
   console.log('Files have been written successfully.');
 }
 
-async function convert() {
-  const inputDir = './input';
-  const { data, groupData } = await readGroupFiles(inputDir);
-  await writeFiles(data, groupData);
+// Main conversion function
+async function convert(): Promise<void> {
+  const inputDir = './src/filetypes';
+  const outputDir = Deno.args[0] || './output'; // Default to './output' if no argument is provided
+
+  const { groupData } = await importGroupFiles(inputDir);
+  await writeFiles(groupData, outputDir);
 }
 
 convert().catch(err => console.error(err));

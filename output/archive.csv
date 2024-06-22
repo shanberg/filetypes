@@ -1,0 +1,39 @@
+ext,mimetype,kind
+7z,application/x-7z-compressed,7-zip archive
+a,,ar archive
+arc,,ARC Compressed archive
+arc,application/x-freearc,Archive
+bm3,,UIQ3 Phone backup
+bps,,WPS backup
+bz,application/x-bzip,BZip archive
+bz2,application/x-bzip2,BZip2 archive
+cab,,Cabinet archive
+daa,,Direct Access Archive
+dbx,,Outlook Express archive
+dd,,DiskDoubler Macintosh file archive
+gz,application/gzip,GZip compressed archive
+ha,,HA archive
+jar,,Java archive
+jar,application/java-archive,Java Archive
+lbr,,LU LBR Archive
+lha,,Total Commander LHA Archive
+lz,,LZip archive
+mpkg,application/vnd.apple.installer+xml,Apple Installer Package
+pack,,Packed JAR
+pak,,Pak archive
+par,,Parity archive
+par2,,Parity archive (v2)
+pit,,PACKIT Compressed Mac file archive
+pka,,PKARC Archive
+pst,,Microsoft Outlook archive file
+"r00, r01, r02, r03, r04, r05, r06, r07, r08, r09, r10",,RAR Part of a multi-file RAR archive
+rar,,RAR archive
+rar,application/vnd.rar,RAR archive
+shar,,UNSHAR Shell self-extracting archive
+tar,application/x-tar,Tape archive
+taz,,Tape archive (Compressed)
+xar,,7-Zip Extensible Archive
+xla,,XLib Archive
+xlk,,Microsoft Excel Archive
+xz,,LZMA/LZMA2 Compressed file
+zip,,Zip archive
