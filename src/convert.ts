@@ -75,7 +75,7 @@ async function writeFiles(groupData: Record<string, Filetype[]>, outputDir: stri
     // Flatten data for CSV
     const flattenedData = flattenData(items);
     console.log(`Flattened data for group: ${group} `, flattenedData);
-    const groupCSV = await stringify(flattenedData, { columns: ["ext", "mimetype", "kind"], header: true });
+    const groupCSV = await stringify(flattenedData, { columns: ["ext", "mimetype", "kind"], headers: true });
 
     console.log(`Writing CSV file: ${csvFile} `);
     await Deno.writeTextFile(csvFile, groupCSV);
@@ -90,7 +90,7 @@ async function writeFiles(groupData: Record<string, Filetype[]>, outputDir: stri
 
   const flattenedAllData = flattenData(allItems);
   console.log(`Flattened data for all groups`, flattenedAllData);
-  const allCSV = await stringify(flattenedAllData, { columns: ["ext", "mimetype", "kind"], header: true });
+  const allCSV = await stringify(flattenedAllData, { columns: ["ext", "mimetype", "kind"], headers: true });
 
   console.log(`Writing combined CSV file: ${allCsvFile} `);
   await Deno.writeTextFile(allCsvFile, allCSV);
@@ -99,12 +99,14 @@ async function writeFiles(groupData: Record<string, Filetype[]>, outputDir: stri
 }
 
 // Main conversion function
-async function convert(): Promise<void> {
-  const inputDir = './src/filetypes';
-  const outputDir = Deno.args[0] || './output'; // Default to './output' if no argument is provided
-
+export async function convert(inputDir: string = './src/filetypes', outputDir: string = './output'): Promise<void> {
   const { groupData } = await importGroupFiles(inputDir);
   await writeFiles(groupData, outputDir);
 }
 
-convert().catch(err => console.error(err));
+// Check for command-line arguments and call convert function
+if (import.meta.main) {
+  const inputDir = Deno.args[0] || './src/filetypes';
+  const outputDir = Deno.args[1] || './output';
+  convert(inputDir, outputDir).catch(err => console.error(err));
+}
