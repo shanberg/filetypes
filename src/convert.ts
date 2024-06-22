@@ -1,5 +1,5 @@
 /// <reference path="./types.d.ts" />
-import { ensureDir } from "@std/fs";
+import { ensureDir, emptyDir } from "@std/fs";
 import { join, resolve, toFileUrl } from "@std/path";
 import { stringify } from "@std/csv";
 
@@ -48,7 +48,14 @@ function flattenData(items: Filetype[]): Record<string, string>[] {
 
 // Function to write JSON and CSV files
 async function writeFiles(groupData: Record<string, Filetype[]>, outputDir: string): Promise<void> {
-  await ensureDir(outputDir);
+  const jsonOutputDir = join(outputDir, "json");
+  const csvOutputDir = join(outputDir, "csv");
+
+  await emptyDir(outputDir);
+  await ensureDir(jsonOutputDir);
+  await ensureDir(csvOutputDir);
+
+  const allItems: Filetype[] = [];
 
   // Grouped JSON and CSV files
   for (const [group, items] of Object.entries(groupData)) {
@@ -57,8 +64,10 @@ async function writeFiles(groupData: Record<string, Filetype[]>, outputDir: stri
       continue;
     }
 
-    const jsonFile = join(outputDir, `${group}.json`);
-    const csvFile = join(outputDir, `${group}.csv`);
+    allItems.push(...items);
+
+    const jsonFile = join(jsonOutputDir, `${group}.json`);
+    const csvFile = join(csvOutputDir, `${group}.csv`);
 
     console.log(`Writing JSON file: ${jsonFile} `);
     await Deno.writeTextFile(jsonFile, JSON.stringify(items, null, 2));
@@ -66,11 +75,25 @@ async function writeFiles(groupData: Record<string, Filetype[]>, outputDir: stri
     // Flatten data for CSV
     const flattenedData = flattenData(items);
     console.log(`Flattened data for group: ${group} `, flattenedData);
-    const groupCSV = await stringify(flattenedData, { columns: ["ext", "mimetype", "kind"], headers: true });
+    const groupCSV = await stringify(flattenedData, { columns: ["ext", "mimetype", "kind"], header: true });
 
     console.log(`Writing CSV file: ${csvFile} `);
     await Deno.writeTextFile(csvFile, groupCSV);
   }
+
+  // Write combined "all" files at the top level of the output directory
+  const allJsonFile = join(outputDir, "all.json");
+  const allCsvFile = join(outputDir, "all.csv");
+
+  console.log(`Writing combined JSON file: ${allJsonFile} `);
+  await Deno.writeTextFile(allJsonFile, JSON.stringify(allItems, null, 2));
+
+  const flattenedAllData = flattenData(allItems);
+  console.log(`Flattened data for all groups`, flattenedAllData);
+  const allCSV = await stringify(flattenedAllData, { columns: ["ext", "mimetype", "kind"], header: true });
+
+  console.log(`Writing combined CSV file: ${allCsvFile} `);
+  await Deno.writeTextFile(allCsvFile, allCSV);
 
   console.log('Files have been written successfully.');
 }
