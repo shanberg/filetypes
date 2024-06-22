@@ -1,0 +1,20 @@
+ext,mimetype,kind
+ahk,,AutoHotkey Script
+awk,,AWK Script/Program
+bat,,MS-DOS Batch file
+bat,application/bat,DOS Batch File
+csh,application/x-csh,C-Shell script
+dbg,,Debugger script
+exs,,Elixir script file
+lua,,Lua script file
+obs,,ObjectScript Script
+pie,,GlovePIE script file
+ps1,,Windows Powershell script
+py,,Python script file
+qlc,,Adobe Type Manager fonts script
+r,,R Script file
+rc,,Resource Compiler script file
+sfx,,RAR Self-Extracting Archive script
+sh,,Unix shell script
+sh,application/x-sh,Bourne shell script
+vbs,,VBScript script file

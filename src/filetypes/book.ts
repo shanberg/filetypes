@@ -1,0 +1,20 @@
+/// <reference path="../types.d.ts" />
+
+export const book: Filetype[] = [
+  {
+    "ext": ["azw", "mobi"],
+    "mimetype": ["application/vnd.amazon.ebook"],
+    "kind": ["Mobipocket/Amazon Kindle eBook"]
+  },
+  {
+    "ext": ["epub"],
+    "mimetype": ["application/epub+zip"],
+    "kind": ["Electronic Publication (EPUB)"]
+  },
+  {
+    "ext": ["fb2"],
+    "kind": ["FictionBook e-book 2.0 file (DRM-free XML)"]
+  },
+];
+
+export default book;

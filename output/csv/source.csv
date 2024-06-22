@@ -1,0 +1,69 @@
+ext,mimetype,kind
+sass,,SASS Stylesheet (Indented)
+xsl,,XSL Stylesheet
+swg,,SWIG source code
+swift,,Swift source code
+scala,,Scala source code
+st,,SMALLTALK source code
+spt,,SPITBOL source code
+sno,,SNOBOL4 source code
+sl,,S-Lang source code
+sm,,SMALLTALK source code
+scm,,Scheme source code
+scss,,SASS Stylesheet (Block)
+ampl,,AMPL Source Code
+nim,,Nim source code
+pm,,Perl module
+rs,,Rust language source code
+rb,,Ruby Script file
+pde,,Processing language source code
+php,,PHP file
+php3,,PHP 3 file
+php4,,PHP 4 file
+pas,,Pascal language source
+p,,PROGRESS source code
+p,,PASCAL source code
+p,,Parser source code
+erl,,Erlang source code
+mod,,Modula language source
+nb,,Mathematica Wolfram Mathematica Notebook
+mod,,Clarion MODULA-2 source code
+mm,,Objective-C++ Source code
+asm,,Assembler language source
+ll,,LLVM Assembly Language
+lisp,,LISP source code
+kt,,Kotlin source code
+bas,,BASIC language source
+f03,,Fortran language source code (Free)
+f08,,Fortran language source code (Free)
+fs,,F# source code
+f18,,Fortran language source code (Free)
+"java, jav",,Java source code
+js,,Javascript code
+hxx,,C++ header file
+hh,,C++ header file
+hpp,,C++ header file
+hack,,HHVM Hack Source file
+for,,Fortran language source code
+f4,,Fortran IV source code
+c,,C Language source
+h--,,Sphinx C—language header
+h,,Watcom C/C++ Header file
+h++,,C++ Header file
+go,,Golang Go source file
+f77,,Fortran language source code (Fixed)
+f90,,Fortran language source code (Free)
+f95,,Fortran language source code (Fixed)
+ec,,eC Source code
+c,,Unix File Archive
+emaker,,E language source code
+e,,E language source code
+c--,,C-- language source
+c++,,C++ language source
+class,,Java class
+csproj,,C# project
+css,,CSS Stylesheet
+d,,D Programming Language source
+dba,,DarkBasic source code
+dbl,,DIBOL source
+dcw,,Walter Machine Programing

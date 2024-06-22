@@ -1,0 +1,16 @@
+ext,mimetype,kind
+xyz,,Molecular coordinates
+saif,,Spatial Archive and Interchange Format
+sur,,MountainsMap Surface topography (SURF)
+sdts,,Spatial Data Transfer Standard
+sat,,Spatial 3D ACIS Modeler file
+ov2,,TomTom Point of Interest Overlay file
+osm,,"OpenStreetMap data, OpenStreetMap note"
+kml,,Google Earth Keyhole Markup Language
+osc,,OpenStreetMap Changeset
+kmz,,Google Earth Keyhole Markup Language (Zip compressed)
+adicht,,LabChart data acquisition
+alc,,Molecular coordinates
+gml,,Geography Markup Language File
+igc,,GPS Flight tracks
+mnt,,MountainsMap Surface metrology or image analysis document

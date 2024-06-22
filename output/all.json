@@ -1,0 +1,6768 @@
+[
+  {
+    "ext": [
+      "3ds"
+    ],
+    "kind": [
+      "3D Studio Graphics format"
+    ]
+  },
+  {
+    "ext": [
+      "3g2"
+    ],
+    "kind": [
+      "Mobile Phone Video"
+    ]
+  },
+  {
+    "ext": [
+      "3g2"
+    ],
+    "mimetype": [
+      "video/3gpp2"
+    ],
+    "kind": [
+      "3GPP2 audio/video container"
+    ]
+  },
+  {
+    "ext": [
+      "3gp"
+    ],
+    "kind": [
+      "Mobile Phone Video"
+    ]
+  },
+  {
+    "ext": [
+      "3gp"
+    ],
+    "mimetype": [
+      "video/3gpp"
+    ],
+    "kind": [
+      "3GPP audio/video container"
+    ]
+  },
+  {
+    "ext": [
+      "asf"
+    ],
+    "kind": [
+      "Advanced Streaming Format Video/Audio"
+    ]
+  },
+  {
+    "ext": [
+      "avi"
+    ],
+    "kind": [
+      "Audio Video Interleave"
+    ]
+  },
+  {
+    "ext": [
+      "avi"
+    ],
+    "mimetype": [
+      "video/x-msvideo"
+    ],
+    "kind": [
+      "Audio Video Interleave"
+    ]
+  },
+  {
+    "ext": [
+      "bik",
+      "bik2"
+    ],
+    "mimetype": [
+      "video/vnd.radgametools.bink"
+    ],
+    "kind": [
+      "BINK Video"
+    ]
+  },
+  {
+    "ext": [
+      "d3v"
+    ],
+    "kind": [
+      "Nintendo DS Video"
+    ]
+  },
+  {
+    "ext": [
+      "dir"
+    ],
+    "kind": [
+      "MacroMind Director 4.x Movie"
+    ]
+  },
+  {
+    "ext": [
+      "dpx"
+    ],
+    "kind": [
+      "Digital Moving Picture Exchange"
+    ]
+  },
+  {
+    "ext": [
+      "flv"
+    ],
+    "kind": [
+      "Adobe Flash Video"
+    ]
+  },
+  {
+    "ext": [
+      "mcf"
+    ],
+    "kind": [
+      "Multimedia Container Format"
+    ]
+  },
+  {
+    "ext": [
+      "mov",
+      "qt"
+    ],
+    "kind": [
+      "QuickTime Video"
+    ]
+  },
+  {
+    "ext": [
+      "mpeg"
+    ],
+    "kind": [
+      "MPEG Audio/Video"
+    ]
+  },
+  {
+    "ext": [
+      "mpeg"
+    ],
+    "mimetype": [
+      "video/mpeg"
+    ],
+    "kind": [
+      "MPEG Video"
+    ]
+  },
+  {
+    "ext": [
+      "mpg"
+    ],
+    "kind": [
+      "MPEG Audio/Video"
+    ]
+  },
+  {
+    "ext": [
+      "nsv"
+    ],
+    "kind": [
+      "Nullsoft Streaming Video media"
+    ]
+  },
+  {
+    "ext": [
+      "ogv"
+    ],
+    "mimetype": [
+      "video/ogg"
+    ],
+    "kind": [
+      "OGG video"
+    ]
+  },
+  {
+    "ext": [
+      "qtvr"
+    ],
+    "kind": [
+      "QuickTime VR Movie"
+    ]
+  },
+  {
+    "ext": [
+      "r3d"
+    ],
+    "kind": [
+      "Red Raw Video"
+    ]
+  },
+  {
+    "ext": [
+      "rm"
+    ],
+    "kind": [
+      "RealMedia Media"
+    ]
+  },
+  {
+    "ext": [
+      "rmvb"
+    ],
+    "kind": [
+      "RealMedia Variable Bitrate Media"
+    ]
+  },
+  {
+    "ext": [
+      "seq"
+    ],
+    "kind": [
+      "Tiertex video sequence"
+    ]
+  },
+  {
+    "ext": [
+      "smk"
+    ],
+    "kind": [
+      "RAD Smacker Video"
+    ]
+  },
+  {
+    "ext": [
+      "ts"
+    ],
+    "mimetype": [
+      "video/mp2t"
+    ],
+    "kind": [
+      "MPEG transport stream"
+    ]
+  },
+  {
+    "ext": [
+      "vob"
+    ],
+    "kind": [
+      "DVD-R/W Video Object"
+    ]
+  },
+  {
+    "ext": [
+      "webm"
+    ],
+    "mimetype": [
+      "video/webm"
+    ],
+    "kind": [
+      "WEBM video"
+    ]
+  },
+  {
+    "ext": [
+      "xmv"
+    ],
+    "kind": [
+      "Xbox video"
+    ]
+  },
+  {
+    "ext": [
+      "sass"
+    ],
+    "kind": [
+      "SASS Stylesheet (Indented)"
+    ]
+  },
+  {
+    "ext": [
+      "xsl"
+    ],
+    "kind": [
+      "XSL Stylesheet"
+    ]
+  },
+  {
+    "ext": [
+      "swg"
+    ],
+    "kind": [
+      "SWIG source code"
+    ]
+  },
+  {
+    "ext": [
+      "swift"
+    ],
+    "kind": [
+      "Swift source code"
+    ]
+  },
+  {
+    "ext": [
+      "scala"
+    ],
+    "kind": [
+      "Scala source code"
+    ]
+  },
+  {
+    "ext": [
+      "st"
+    ],
+    "kind": [
+      "SMALLTALK source code"
+    ]
+  },
+  {
+    "ext": [
+      "spt"
+    ],
+    "kind": [
+      "SPITBOL source code"
+    ]
+  },
+  {
+    "ext": [
+      "sno"
+    ],
+    "kind": [
+      "SNOBOL4 source code"
+    ]
+  },
+  {
+    "ext": [
+      "sl"
+    ],
+    "kind": [
+      "S-Lang source code"
+    ]
+  },
+  {
+    "ext": [
+      "sm"
+    ],
+    "kind": [
+      "SMALLTALK source code"
+    ]
+  },
+  {
+    "ext": [
+      "scm"
+    ],
+    "kind": [
+      "Scheme source code"
+    ]
+  },
+  {
+    "ext": [
+      "scss"
+    ],
+    "kind": [
+      "SASS Stylesheet (Block)"
+    ]
+  },
+  {
+    "ext": [
+      "ampl"
+    ],
+    "kind": [
+      "AMPL Source Code"
+    ]
+  },
+  {
+    "ext": [
+      "nim"
+    ],
+    "kind": [
+      "Nim source code"
+    ]
+  },
+  {
+    "ext": [
+      "pm"
+    ],
+    "kind": [
+      "Perl module"
+    ]
+  },
+  {
+    "ext": [
+      "rs"
+    ],
+    "kind": [
+      "Rust language source code"
+    ]
+  },
+  {
+    "ext": [
+      "rb"
+    ],
+    "kind": [
+      "Ruby Script file"
+    ]
+  },
+  {
+    "ext": [
+      "pde"
+    ],
+    "kind": [
+      "Processing language source code"
+    ]
+  },
+  {
+    "ext": [
+      "php"
+    ],
+    "kind": [
+      "PHP file"
+    ]
+  },
+  {
+    "ext": [
+      "php3"
+    ],
+    "kind": [
+      "PHP 3 file"
+    ]
+  },
+  {
+    "ext": [
+      "php4"
+    ],
+    "kind": [
+      "PHP 4 file"
+    ]
+  },
+  {
+    "ext": [
+      "pas"
+    ],
+    "kind": [
+      "Pascal language source"
+    ]
+  },
+  {
+    "ext": [
+      "p"
+    ],
+    "kind": [
+      "PROGRESS source code"
+    ]
+  },
+  {
+    "ext": [
+      "p"
+    ],
+    "kind": [
+      "PASCAL source code"
+    ]
+  },
+  {
+    "ext": [
+      "p"
+    ],
+    "kind": [
+      "Parser source code"
+    ]
+  },
+  {
+    "ext": [
+      "erl"
+    ],
+    "kind": [
+      "Erlang source code"
+    ]
+  },
+  {
+    "ext": [
+      "mod"
+    ],
+    "kind": [
+      "Modula language source"
+    ]
+  },
+  {
+    "ext": [
+      "nb"
+    ],
+    "kind": [
+      "Mathematica Wolfram Mathematica Notebook"
+    ]
+  },
+  {
+    "ext": [
+      "mod"
+    ],
+    "kind": [
+      "Clarion MODULA-2 source code"
+    ]
+  },
+  {
+    "ext": [
+      "mm"
+    ],
+    "kind": [
+      "Objective-C++ Source code"
+    ]
+  },
+  {
+    "ext": [
+      "asm"
+    ],
+    "kind": [
+      "Assembler language source"
+    ]
+  },
+  {
+    "ext": [
+      "ll"
+    ],
+    "kind": [
+      "LLVM Assembly Language"
+    ]
+  },
+  {
+    "ext": [
+      "lisp"
+    ],
+    "kind": [
+      "LISP source code"
+    ]
+  },
+  {
+    "ext": [
+      "kt"
+    ],
+    "kind": [
+      "Kotlin source code"
+    ]
+  },
+  {
+    "ext": [
+      "bas"
+    ],
+    "kind": [
+      "BASIC language source"
+    ]
+  },
+  {
+    "ext": [
+      "f03"
+    ],
+    "kind": [
+      "Fortran language source code (Free)"
+    ]
+  },
+  {
+    "ext": [
+      "f08"
+    ],
+    "kind": [
+      "Fortran language source code (Free)"
+    ]
+  },
+  {
+    "ext": [
+      "fs"
+    ],
+    "kind": [
+      "F# source code"
+    ]
+  },
+  {
+    "ext": [
+      "f18"
+    ],
+    "kind": [
+      "Fortran language source code (Free)"
+    ]
+  },
+  {
+    "ext": [
+      "java",
+      "jav"
+    ],
+    "kind": [
+      "Java source code"
+    ]
+  },
+  {
+    "ext": [
+      "js"
+    ],
+    "kind": [
+      "Javascript code"
+    ]
+  },
+  {
+    "ext": [
+      "hxx"
+    ],
+    "kind": [
+      "C++ header file"
+    ]
+  },
+  {
+    "ext": [
+      "hh"
+    ],
+    "kind": [
+      "C++ header file"
+    ]
+  },
+  {
+    "ext": [
+      "hpp"
+    ],
+    "kind": [
+      "C++ header file"
+    ]
+  },
+  {
+    "ext": [
+      "hack"
+    ],
+    "kind": [
+      "HHVM Hack Source file"
+    ]
+  },
+  {
+    "ext": [
+      "for"
+    ],
+    "kind": [
+      "Fortran language source code"
+    ]
+  },
+  {
+    "ext": [
+      "f4"
+    ],
+    "kind": [
+      "Fortran IV source code"
+    ]
+  },
+  {
+    "ext": [
+      "c"
+    ],
+    "kind": [
+      "C Language source"
+    ]
+  },
+  {
+    "ext": [
+      "h--"
+    ],
+    "kind": [
+      "Sphinx C—language header"
+    ]
+  },
+  {
+    "ext": [
+      "h"
+    ],
+    "kind": [
+      "Watcom C/C++ Header file"
+    ]
+  },
+  {
+    "ext": [
+      "h++"
+    ],
+    "kind": [
+      "C++ Header file"
+    ]
+  },
+  {
+    "ext": [
+      "go"
+    ],
+    "kind": [
+      "Golang Go source file"
+    ]
+  },
+  {
+    "ext": [
+      "f77"
+    ],
+    "kind": [
+      "Fortran language source code (Fixed)"
+    ]
+  },
+  {
+    "ext": [
+      "f90"
+    ],
+    "kind": [
+      "Fortran language source code (Free)"
+    ]
+  },
+  {
+    "ext": [
+      "f95"
+    ],
+    "kind": [
+      "Fortran language source code (Fixed)"
+    ]
+  },
+  {
+    "ext": [
+      "ec"
+    ],
+    "kind": [
+      "eC Source code"
+    ]
+  },
+  {
+    "ext": [
+      "c"
+    ],
+    "kind": [
+      "Unix File Archive"
+    ]
+  },
+  {
+    "ext": [
+      "emaker"
+    ],
+    "kind": [
+      "E language source code"
+    ]
+  },
+  {
+    "ext": [
+      "e"
+    ],
+    "kind": [
+      "E language source code"
+    ]
+  },
+  {
+    "ext": [
+      "c--"
+    ],
+    "kind": [
+      "C-- language source"
+    ]
+  },
+  {
+    "ext": [
+      "c++"
+    ],
+    "kind": [
+      "C++ language source"
+    ]
+  },
+  {
+    "ext": [
+      "class"
+    ],
+    "kind": [
+      "Java class"
+    ]
+  },
+  {
+    "ext": [
+      "csproj"
+    ],
+    "kind": [
+      "C# project"
+    ]
+  },
+  {
+    "ext": [
+      "css"
+    ],
+    "kind": [
+      "CSS Stylesheet"
+    ]
+  },
+  {
+    "ext": [
+      "d"
+    ],
+    "kind": [
+      "D Programming Language source"
+    ]
+  },
+  {
+    "ext": [
+      "dba"
+    ],
+    "kind": [
+      "DarkBasic source code"
+    ]
+  },
+  {
+    "ext": [
+      "dbl"
+    ],
+    "kind": [
+      "DIBOL source"
+    ]
+  },
+  {
+    "ext": [
+      "dcw"
+    ],
+    "kind": [
+      "Walter Machine Programing"
+    ]
+  },
+  {
+    "ext": [
+      "ahk"
+    ],
+    "kind": [
+      "AutoHotkey Script"
+    ]
+  },
+  {
+    "ext": [
+      "awk"
+    ],
+    "kind": [
+      "AWK Script/Program"
+    ]
+  },
+  {
+    "ext": [
+      "bat"
+    ],
+    "kind": [
+      "MS-DOS Batch file"
+    ]
+  },
+  {
+    "ext": [
+      "bat"
+    ],
+    "mimetype": [
+      "application/bat"
+    ],
+    "kind": [
+      "DOS Batch File"
+    ]
+  },
+  {
+    "ext": [
+      "csh"
+    ],
+    "mimetype": [
+      "application/x-csh"
+    ],
+    "kind": [
+      "C-Shell script"
+    ]
+  },
+  {
+    "ext": [
+      "dbg"
+    ],
+    "kind": [
+      "Debugger script"
+    ]
+  },
+  {
+    "ext": [
+      "exs"
+    ],
+    "kind": [
+      "Elixir script file"
+    ]
+  },
+  {
+    "ext": [
+      "lua"
+    ],
+    "kind": [
+      "Lua script file"
+    ]
+  },
+  {
+    "ext": [
+      "obs"
+    ],
+    "kind": [
+      "ObjectScript Script"
+    ]
+  },
+  {
+    "ext": [
+      "pie"
+    ],
+    "kind": [
+      "GlovePIE script file"
+    ]
+  },
+  {
+    "ext": [
+      "ps1"
+    ],
+    "kind": [
+      "Windows Powershell script"
+    ]
+  },
+  {
+    "ext": [
+      "py"
+    ],
+    "kind": [
+      "Python script file"
+    ]
+  },
+  {
+    "ext": [
+      "qlc"
+    ],
+    "kind": [
+      "Adobe Type Manager fonts script"
+    ]
+  },
+  {
+    "ext": [
+      "r"
+    ],
+    "kind": [
+      "R Script file"
+    ]
+  },
+  {
+    "ext": [
+      "rc"
+    ],
+    "kind": [
+      "Resource Compiler script file"
+    ]
+  },
+  {
+    "ext": [
+      "sfx"
+    ],
+    "kind": [
+      "RAR Self-Extracting Archive script"
+    ]
+  },
+  {
+    "ext": [
+      "sh"
+    ],
+    "kind": [
+      "Unix shell script"
+    ]
+  },
+  {
+    "ext": [
+      "sh"
+    ],
+    "mimetype": [
+      "application/x-sh"
+    ],
+    "kind": [
+      "Bourne shell script"
+    ]
+  },
+  {
+    "ext": [
+      "vbs"
+    ],
+    "kind": [
+      "VBScript script file"
+    ]
+  },
+  {
+    "ext": [
+      "accdb"
+    ],
+    "kind": [
+      "Microsoft Access Database"
+    ]
+  },
+  {
+    "ext": [
+      "accft"
+    ],
+    "kind": [
+      "Microsoft Access Data Type Template"
+    ]
+  },
+  {
+    "ext": [
+      "adt"
+    ],
+    "kind": [
+      "xDT Abrechnungsdatentransfer"
+    ]
+  },
+  {
+    "ext": [
+      "advantage"
+    ],
+    "kind": [
+      "Database Server"
+    ]
+  },
+  {
+    "ext": [
+      "adx"
+    ],
+    "kind": [
+      "Archetype Designer Document"
+    ]
+  },
+  {
+    "ext": [
+      "agr"
+    ],
+    "kind": [
+      "ArcView ASCII grid"
+    ]
+  },
+  {
+    "ext": [
+      "aio"
+    ],
+    "kind": [
+      "APL programming language file transfer"
+    ]
+  },
+  {
+    "ext": [
+      "air"
+    ],
+    "kind": [
+      "Adobe AIR installation package"
+    ]
+  },
+  {
+    "ext": [
+      "akm"
+    ],
+    "kind": [
+      "Akai Multitimbral sample information"
+    ]
+  },
+  {
+    "ext": [
+      "akp"
+    ],
+    "kind": [
+      "Akai Program sample information"
+    ]
+  },
+  {
+    "ext": [
+      "ale"
+    ],
+    "kind": [
+      "Avid Log Exchange"
+    ]
+  },
+  {
+    "ext": [
+      "all"
+    ],
+    "kind": [
+      "WordPerfect General printer information"
+    ]
+  },
+  {
+    "ext": [
+      "amg"
+    ],
+    "kind": [
+      "ACTOR System image"
+    ]
+  },
+  {
+    "ext": [
+      "aml"
+    ],
+    "kind": [
+      "AutomationML"
+    ]
+  },
+  {
+    "ext": [
+      "amlx"
+    ],
+    "kind": [
+      "AutomationML (Compressed)"
+    ]
+  },
+  {
+    "ext": [
+      "ann"
+    ],
+    "kind": [
+      "Windows Help file Annotation"
+    ]
+  },
+  {
+    "ext": [
+      "asax"
+    ],
+    "kind": [
+      "ASP.NET global application"
+    ]
+  },
+  {
+    "ext": [
+      "ascx"
+    ],
+    "kind": [
+      "ASP.NET User Control"
+    ]
+  },
+  {
+    "ext": [
+      "ashx"
+    ],
+    "kind": [
+      "ASP.NET handler"
+    ]
+  },
+  {
+    "ext": [
+      "asx"
+    ],
+    "kind": [
+      "Advanced Stream Redirector"
+    ]
+  },
+  {
+    "ext": [
+      "bar"
+    ],
+    "kind": [
+      "IMB WebSphere Broker archive"
+    ]
+  },
+  {
+    "ext": [
+      "bdt"
+    ],
+    "kind": [
+      "xDT Behandlungsdatentransfer"
+    ]
+  },
+  {
+    "ext": [
+      "bin"
+    ],
+    "mimetype": [
+      "application/octet-stream"
+    ],
+    "kind": [
+      "Binary data"
+    ]
+  },
+  {
+    "ext": [
+      "cd"
+    ],
+    "kind": [
+      "ASP.NET class diagram"
+    ]
+  },
+  {
+    "ext": [
+      "cdf"
+    ],
+    "kind": [
+      "Common Data Format",
+      "Mathematica Computable Document Format"
+    ]
+  },
+  {
+    "ext": [
+      "chm"
+    ],
+    "kind": [
+      "Compiled Help file"
+    ]
+  },
+  {
+    "ext": [
+      "cho"
+    ],
+    "kind": [
+      "ChordPro lead sheet"
+    ]
+  },
+  {
+    "ext": [
+      "cif"
+    ],
+    "kind": [
+      "Crystallographic Information"
+    ]
+  },
+  {
+    "ext": [
+      "cmd"
+    ],
+    "kind": [
+      "Command Prompt batch file"
+    ]
+  },
+  {
+    "ext": [
+      "cmod"
+    ],
+    "kind": [
+      "Celestia Model"
+    ]
+  },
+  {
+    "ext": [
+      "coe"
+    ],
+    "kind": [
+      "Xilinx ISE Coefficient file"
+    ]
+  },
+  {
+    "ext": [
+      "compile"
+    ],
+    "kind": [
+      "ASP.NET precompiled stub"
+    ]
+  },
+  {
+    "ext": [
+      "cpl"
+    ],
+    "kind": [
+      "Windows 3.x Control panel"
+    ]
+  },
+  {
+    "ext": [
+      "crai"
+    ],
+    "kind": [
+      "CRAM index"
+    ]
+  },
+  {
+    "ext": [
+      "d"
+    ],
+    "kind": [
+      "Unix configuration files directory"
+    ]
+  },
+  {
+    "ext": [
+      "dae"
+    ],
+    "kind": [
+      "COLLADA file"
+    ]
+  },
+  {
+    "ext": [
+      "daf"
+    ],
+    "kind": [
+      "Digital Anchor Data File"
+    ]
+  },
+  {
+    "ext": [
+      "dal"
+    ],
+    "kind": [
+      "Helvar Digidim system"
+    ]
+  },
+  {
+    "ext": [
+      "dat"
+    ],
+    "kind": [
+      "AMPL data file",
+      "Siemens Maxum Chromatograph chromatogram",
+      "LDraw 3D Model",
+      "Microsoft Word Document",
+      "RSNetWorx Project data",
+      "Data file in special format or ASCII",
+      "Clarion Database",
+      "Norton Utilities disc image data",
+      "Optical disc image",
+      "Video CD MPEG stream",
+      "Windows registry hive",
+      "Minecraft game data"
+    ]
+  },
+  {
+    "ext": [
+      "dats"
+    ],
+    "kind": [
+      "Dynamic source"
+    ]
+  },
+  {
+    "ext": [
+      "dav"
+    ],
+    "kind": [
+      "DVR365 or AlienDVR Proprietary DVR format"
+    ]
+  },
+  {
+    "ext": [
+      "db"
+    ],
+    "kind": [
+      "Database",
+      "dBASE/dBFast Configuration",
+      "Multi Edit config"
+    ]
+  },
+  {
+    "ext": [
+      "db$"
+    ],
+    "kind": [
+      "Clarion Modula-2 Temperature debug info",
+      "dBASE Temporary file"
+    ]
+  },
+  {
+    "ext": [
+      "db2"
+    ],
+    "kind": [
+      "dBASE II Database"
+    ]
+  },
+  {
+    "ext": [
+      "db3"
+    ],
+    "kind": [
+      "dBASE III Database"
+    ]
+  },
+  {
+    "ext": [
+      "dba"
+    ],
+    "kind": [
+      "Turbo Prolog/DataEase Database"
+    ]
+  },
+  {
+    "ext": [
+      "dbc"
+    ],
+    "kind": [
+      "Visual FoxPro DataBaseContainer"
+    ]
+  },
+  {
+    "ext": [
+      "dbd"
+    ],
+    "kind": [
+      "Clarion Modula-2 Business Insight Business data"
+    ]
+  },
+  {
+    "ext": [
+      "dbd"
+    ],
+    "kind": [
+      "Clarion Modula-2 Debug info"
+    ]
+  },
+  {
+    "ext": [
+      "dbf"
+    ],
+    "kind": [
+      "Database File"
+    ]
+  },
+  {
+    "ext": [
+      "dbg"
+    ],
+    "kind": [
+      "Microsoft C/C++ Symbolic debugging information"
+    ]
+  },
+  {
+    "ext": [
+      "dbk"
+    ],
+    "kind": [
+      "dBASE IV Database backup"
+    ]
+  },
+  {
+    "ext": [
+      "dbl"
+    ],
+    "kind": [
+      "EAGLE Design Block"
+    ]
+  },
+  {
+    "ext": [
+      "dbm"
+    ],
+    "kind": [
+      "DataBoss Menu template"
+    ]
+  },
+  {
+    "ext": [
+      "dbm"
+    ],
+    "kind": [
+      "DataEase Datafile"
+    ]
+  },
+  {
+    "ext": [
+      "dbo"
+    ],
+    "kind": [
+      "dBASE IV Compiled program"
+    ]
+  },
+  {
+    "ext": [
+      "dbpro"
+    ],
+    "kind": [
+      "DarkBasicPro Project"
+    ]
+  },
+  {
+    "ext": [
+      "dbs"
+    ],
+    "kind": [
+      "Managing Your Money Data file",
+      "Database in SQL Windows format",
+      "PRODAS Datafile",
+      "SQL Windows Datafile",
+      "MS Word/MS Worsk Printer description"
+    ]
+  },
+  {
+    "ext": [
+      "dbt"
+    ],
+    "kind": [
+      "FoxPro 2.x FoxBASE+ style memo",
+      "dBASE/dBFast Memo file"
+    ]
+  },
+  {
+    "ext": [
+      "dbw"
+    ],
+    "kind": [
+      "DataBoss Windows file"
+    ]
+  },
+  {
+    "ext": [
+      "dbx"
+    ],
+    "kind": [
+      "GCGW DataBeam"
+    ]
+  },
+  {
+    "ext": [
+      "dca"
+    ],
+    "kind": [
+      "IBM DisplayWrite Document Content Architecture text"
+    ]
+  },
+  {
+    "ext": [
+      "dci"
+    ],
+    "kind": [
+      "Dreamcast Save File"
+    ]
+  },
+  {
+    "ext": [
+      "dcl"
+    ],
+    "kind": [
+      "Borland Delphi Control Library"
+    ]
+  },
+  {
+    "ext": [
+      "dcp"
+    ],
+    "kind": [
+      "OS/2 Device Code Page"
+    ]
+  },
+  {
+    "ext": [
+      "dcs"
+    ],
+    "kind": [
+      "ACT! Activity Datafile"
+    ]
+  },
+  {
+    "ext": [
+      "dct"
+    ],
+    "kind": [
+      "Dictionary file",
+      "Clarion Dictionary",
+      "Harvard Graphics 3.0 Spell checking dictionary",
+      "Visual FoxPro DataBaseContainer Extension"
+    ]
+  },
+  {
+    "ext": [
+      "dcu"
+    ],
+    "kind": [
+      "Delphi Unit (Compiled)"
+    ]
+  },
+  {
+    "ext": [
+      "dcx"
+    ],
+    "kind": [
+      "Multi-page PCX graphics (common fax format)",
+      "Visual FoxPro DataBaseContainer Index"
+    ]
+  },
+  {
+    "ext": [
+      "ddb"
+    ],
+    "kind": [
+      "Bitmap graphics",
+      "Digidesign Database File"
+    ]
+  },
+  {
+    "ext": [
+      "ddp"
+    ],
+    "kind": [
+      "OS/2 Device Driver Profile file"
+    ]
+  },
+  {
+    "ext": [
+      "dds"
+    ],
+    "kind": [
+      "Microsoft DirectDraw Surface file"
+    ]
+  },
+  {
+    "ext": [
+      "deb"
+    ],
+    "kind": [
+      "Unix Archive",
+      "DOS DEBUG script"
+    ]
+  },
+  {
+    "ext": [
+      "def"
+    ],
+    "kind": [
+      "Geoworks Assembly header file",
+      "Defaults-definitions",
+      "TLinkl/WLink Linker definition file"
+    ]
+  },
+  {
+    "ext": [
+      "dem"
+    ],
+    "kind": [
+      "Demonstration",
+      "Digital Elevation Model",
+      "VistaPro Graphics file",
+      "Meta.exe VP3 Vista DEM file"
+    ]
+  },
+  {
+    "ext": [
+      "des"
+    ],
+    "kind": [
+      "AWAVE Ascii text parameter description"
+    ]
+  },
+  {
+    "ext": [
+      "desklink"
+    ],
+    "kind": [
+      "Windows Explorer Desktop Control"
+    ]
+  },
+  {
+    "ext": [
+      "desktop"
+    ],
+    "kind": [
+      "Desktop Entry"
+    ]
+  },
+  {
+    "ext": [
+      "dev"
+    ],
+    "kind": [
+      "Device driver",
+      "RT-11 SYSGEN handler build procedure",
+      "Dev-C++ project file"
+    ]
+  },
+  {
+    "ext": [
+      "dfi"
+    ],
+    "kind": [
+      "Digifont Outline font description"
+    ]
+  },
+  {
+    "ext": [
+      "dfl"
+    ],
+    "kind": [
+      "Signature Default program settings"
+    ]
+  },
+  {
+    "ext": [
+      "dfm"
+    ],
+    "kind": [
+      "Delphi Form Module"
+    ]
+  },
+  {
+    "ext": [
+      "dfm"
+    ],
+    "kind": [
+      "Prosa Data Flow Diagram model file"
+    ]
+  },
+  {
+    "ext": [
+      "dfti"
+    ],
+    "kind": [
+      "FlexiWrite Dynamic Formatted Text and Images (Word Processing)"
+    ]
+  },
+  {
+    "ext": [
+      "dfv"
+    ],
+    "kind": [
+      "Microsoft Word Printing form (Word)"
+    ]
+  },
+  {
+    "ext": [
+      "dfx"
+    ],
+    "kind": [
+      "Micrografx Effects DLL"
+    ]
+  },
+  {
+    "ext": [
+      "dgs"
+    ],
+    "kind": [
+      "Diagnostics"
+    ]
+  },
+  {
+    "ext": [
+      "dh"
+    ],
+    "kind": [
+      "Geoworks Dependency information for .ph"
+    ]
+  },
+  {
+    "ext": [
+      "dht"
+    ],
+    "kind": [
+      "Gauss Datafile"
+    ]
+  },
+  {
+    "ext": [
+      "di"
+    ],
+    "kind": [
+      "DMD D Programming Language interface"
+    ]
+  },
+  {
+    "ext": [
+      "dia"
+    ],
+    "kind": [
+      "Computer Support Corporation Diagraph graphics"
+    ]
+  },
+  {
+    "ext": [
+      "dic"
+    ],
+    "kind": [
+      "Dictionary"
+    ]
+  },
+  {
+    "ext": [
+      "dif"
+    ],
+    "kind": [
+      "Borland patch data file",
+      "Visicalc Data Interchange Format",
+      "OS/2 Display Information File",
+      "Diff output",
+      "RT-11 SRCCOM, BINCOM output file"
+    ]
+  },
+  {
+    "ext": [
+      "dig"
+    ],
+    "kind": [
+      "AWAVE Digilink"
+    ]
+  },
+  {
+    "ext": [
+      "dip"
+    ],
+    "kind": [
+      "DipTrace PCB Layout PCB Drawing file"
+    ]
+  },
+  {
+    "ext": [
+      "dip"
+    ],
+    "kind": [
+      "WatcomDebugger debug info processor"
+    ]
+  },
+  {
+    "ext": [
+      "dir"
+    ],
+    "kind": [
+      "Procomm Plus Dialing directory file"
+    ]
+  },
+  {
+    "ext": [
+      "dir"
+    ],
+    "kind": [
+      "RT-11 Directory listing file"
+    ]
+  },
+  {
+    "ext": [
+      "dir"
+    ],
+    "kind": [
+      "VAX - CPS Backup Directory"
+    ]
+  },
+  {
+    "ext": [
+      "dired"
+    ],
+    "kind": [
+      "Dired Directory listing (ls format)"
+    ]
+  },
+  {
+    "ext": [
+      "dis"
+    ],
+    "kind": [
+      "CorelDraw Thesaurus"
+    ]
+  },
+  {
+    "ext": [
+      "dis"
+    ],
+    "kind": [
+      "VAX Mail Distribution file"
+    ]
+  },
+  {
+    "ext": [
+      "diz"
+    ],
+    "kind": [
+      "Zip Description file"
+    ]
+  },
+  {
+    "ext": [
+      "djvu"
+    ],
+    "kind": [
+      "DJVU Document Format"
+    ]
+  },
+  {
+    "ext": [
+      "dl"
+    ],
+    "kind": [
+      "DL Viewer Animation format"
+    ]
+  },
+  {
+    "ext": [
+      "dlc"
+    ],
+    "kind": [
+      "JDownloader Link Container"
+    ]
+  },
+  {
+    "ext": [
+      "dld"
+    ],
+    "kind": [
+      "Lotus 1-2-3 Data"
+    ]
+  },
+  {
+    "ext": [
+      "dlf"
+    ],
+    "kind": [
+      "Exstream Dialogue Live Format"
+    ]
+  },
+  {
+    "ext": [
+      "dlg"
+    ],
+    "kind": [
+      "Microsoft Windows SDK Dialog resource script file",
+      "DN Dialog resources",
+      "Windows SDK dialog editor data file"
+    ]
+  },
+  {
+    "ext": [
+      "dll"
+    ],
+    "kind": [
+      "Dynamic-link library",
+      "CorelDRAW Export/import filter"
+    ]
+  },
+  {
+    "ext": [
+      "dlm"
+    ],
+    "kind": [
+      "Microsoft File Transfer Manager file"
+    ]
+  },
+  {
+    "ext": [
+      "dlp"
+    ],
+    "kind": [
+      "DAQLab Data"
+    ]
+  },
+  {
+    "ext": [
+      "dls"
+    ],
+    "kind": [
+      "Norton Disklock Setup"
+    ]
+  },
+  {
+    "ext": [
+      "dmf"
+    ],
+    "kind": [
+      "Delusion Music File",
+      "DeleD files"
+    ]
+  },
+  {
+    "ext": [
+      "dmo"
+    ],
+    "kind": [
+      "Derive Demo"
+    ]
+  },
+  {
+    "ext": [
+      "dmp"
+    ],
+    "kind": [
+      "Dump file",
+      "RT-11 DUMP utility output file"
+    ]
+  },
+  {
+    "ext": [
+      "dof"
+    ],
+    "kind": [
+      "Delphi project options file"
+    ]
+  },
+  {
+    "ext": [
+      "dog"
+    ],
+    "kind": [
+      "Laughing Dog Screen Maker Screen file"
+    ]
+  },
+  {
+    "ext": [
+      "dpf"
+    ],
+    "kind": [
+      "Debrief Plot File"
+    ]
+  },
+  {
+    "ext": [
+      "dru"
+    ],
+    "kind": [
+      "EAGLE Design Rules"
+    ]
+  },
+  {
+    "ext": [
+      "dsc"
+    ],
+    "kind": [
+      "Celestia Deep Space Catalog file"
+    ]
+  },
+  {
+    "ext": [
+      "dtd"
+    ],
+    "kind": [
+      "Document Type Definition"
+    ]
+  },
+  {
+    "ext": [
+      "dxp"
+    ],
+    "kind": [
+      "TIBCO SpotFire data"
+    ]
+  },
+  {
+    "ext": [
+      "e##"
+    ],
+    "kind": [
+      "EnCase Forensic Analysis Suite entity"
+    ]
+  },
+  {
+    "ext": [
+      "e00"
+    ],
+    "kind": [
+      "GIS ArcInfo interchange file"
+    ]
+  },
+  {
+    "ext": [
+      "ebd"
+    ],
+    "kind": [
+      "Windows Emergency Boot Disk System File"
+    ]
+  },
+  {
+    "ext": [
+      "ecc"
+    ],
+    "kind": [
+      "DVDisaster Error-checking file"
+    ]
+  },
+  {
+    "ext": [
+      "edf"
+    ],
+    "kind": [
+      "Medical timeseries storage file"
+    ]
+  },
+  {
+    "ext": [
+      "efi"
+    ],
+    "kind": [
+      "Extensible Firmware Interface"
+    ]
+  },
+  {
+    "ext": [
+      "eis"
+    ],
+    "kind": [
+      "EIS Spectrum Analyser EIS Spectrum Analyser Project"
+    ]
+  },
+  {
+    "ext": [
+      "el"
+    ],
+    "kind": [
+      "Emacs Lisp source code file"
+    ]
+  },
+  {
+    "ext": [
+      "elc"
+    ],
+    "kind": [
+      "Emacs Byte-compiled Lisp code"
+    ]
+  },
+  {
+    "ext": [
+      "ep"
+    ],
+    "kind": [
+      "Prikhi/Evolus GUI wireframe/prototype project"
+    ]
+  },
+  {
+    "ext": [
+      "epa"
+    ],
+    "kind": [
+      "Award BIOS splash screen"
+    ]
+  },
+  {
+    "ext": [
+      "es6"
+    ],
+    "kind": [
+      "ECMAScript 6 file"
+    ]
+  },
+  {
+    "ext": [
+      "escpcb"
+    ],
+    "kind": [
+      "Electro-System esCAD PCB"
+    ]
+  },
+  {
+    "ext": [
+      "escsch"
+    ],
+    "kind": [
+      "Electro-System esCAD Schematic"
+    ]
+  },
+  {
+    "ext": [
+      "exp"
+    ],
+    "kind": [
+      "Drawing Express Drawing",
+      "Embroidermodder Melco Embroidery Format"
+    ]
+  },
+  {
+    "ext": [
+      "ezw"
+    ],
+    "kind": [
+      "easyOFFER Document"
+    ]
+  },
+  {
+    "ext": [
+      "f"
+    ],
+    "kind": [
+      "FREEZE Archive",
+      "Forth language source code file",
+      "Fortran language source code file (Fixed)"
+    ]
+  },
+  {
+    "ext": [
+      "f01"
+    ],
+    "kind": [
+      "PerfectFax Fax"
+    ]
+  },
+  {
+    "ext": [
+      "f4v"
+    ],
+    "kind": [
+      "Adobe Flash container"
+    ]
+  },
+  {
+    "ext": [
+      "fen"
+    ],
+    "kind": [
+      "Chess Position (Forsyth–Edwards Notation)"
+    ]
+  },
+  {
+    "ext": [
+      "flame"
+    ],
+    "kind": [
+      "Apophysis Fractal configuration file"
+    ]
+  },
+  {
+    "ext": [
+      "fni"
+    ],
+    "kind": [
+      "FileNet Native Document"
+    ]
+  },
+  {
+    "ext": [
+      "frm"
+    ],
+    "kind": [
+      "MySQL Database Metadata"
+    ]
+  },
+  {
+    "ext": [
+      "gbr"
+    ],
+    "mimetype": [
+      "application/vnd.gerber"
+    ]
+  },
+  {
+    "ext": [
+      "gdf"
+    ],
+    "kind": [
+      "Brain Computer Interfaces General Data Format for Biomedical Signals"
+    ]
+  },
+  {
+    "ext": [
+      "gdt"
+    ],
+    "kind": [
+      "xDT Gerätedatentransfer"
+    ]
+  },
+  {
+    "ext": [
+      "ged"
+    ],
+    "kind": [
+      "Genealogy Data Exchange File"
+    ]
+  },
+  {
+    "ext": [
+      "ggb"
+    ],
+    "kind": [
+      "GeoGebra File"
+    ]
+  },
+  {
+    "ext": [
+      "gpx"
+    ],
+    "kind": [
+      "GPS Exchange Format"
+    ]
+  },
+  {
+    "ext": [
+      "gtf"
+    ],
+    "kind": [
+      "Gene transfer format"
+    ]
+  },
+  {
+    "ext": [
+      "gv"
+    ],
+    "kind": [
+      "Graphviz Graph Visualization"
+    ]
+  },
+  {
+    "ext": [
+      "h!"
+    ],
+    "kind": [
+      "Flambeaux Help! Display Engine On-line help file",
+      "HELP.EXE Pertext database"
+    ]
+  },
+  {
+    "ext": [
+      "har"
+    ],
+    "kind": [
+      "W3C HTTP Archive format (JSON-format web-browser log)"
+    ]
+  },
+  {
+    "ext": [
+      "hdmp"
+    ],
+    "kind": [
+      "Heap dumpfile"
+    ]
+  },
+  {
+    "ext": [
+      "hta"
+    ],
+    "kind": [
+      "Microsoft Windows HTML Application"
+    ]
+  },
+  {
+    "ext": [
+      "icc"
+    ],
+    "kind": [
+      "ICC Color Profile"
+    ]
+  },
+  {
+    "ext": [
+      "ice"
+    ],
+    "kind": [
+      "Total Commander LHA Archive"
+    ]
+  },
+  {
+    "ext": [
+      "ics"
+    ],
+    "mimetype": [
+      "text/calendar"
+    ],
+    "kind": [
+      "iCalendar format"
+    ]
+  },
+  {
+    "ext": [
+      "ifc"
+    ],
+    "kind": [
+      "BIM Industry Foundation Classes"
+    ]
+  },
+  {
+    "ext": [
+      "io"
+    ],
+    "kind": [
+      "CPIO Archive"
+    ]
+  },
+  {
+    "ext": [
+      "ipt"
+    ],
+    "kind": [
+      "XnView IPTC template"
+    ]
+  },
+  {
+    "ext": [
+      "iso"
+    ],
+    "kind": [
+      "see: List of ISO image software ISO-9660 table // FIXME"
+    ]
+  },
+  {
+    "ext": [
+      "jcal"
+    ],
+    "mimetype": [
+      "application/calendar+json"
+    ],
+    "kind": [
+      "iCal calendar (JSON)"
+    ]
+  },
+  {
+    "ext": [
+      "jnlp"
+    ],
+    "kind": [
+      "Java Network Launching Protocol"
+    ]
+  },
+  {
+    "ext": [
+      "ldt"
+    ],
+    "kind": [
+      "xDT Labordatenträger"
+    ]
+  },
+  {
+    "ext": [
+      "ly"
+    ],
+    "kind": [
+      "LilyPond Notation File"
+    ]
+  },
+  {
+    "ext": [
+      "m"
+    ],
+    "kind": [
+      "Mathematica Package File",
+      "MATLAB M-File",
+      "Mercury Source File",
+      "Objective-C Source code"
+    ]
+  },
+  {
+    "ext": [
+      "mdf"
+    ],
+    "kind": [
+      "Microsoft SQL Server file type",
+      "Measurement Data Format"
+    ]
+  },
+  {
+    "ext": [
+      "mdg"
+    ],
+    "kind": [
+      "DInsight Digital Geometric Kernel Digital Geometry format"
+    ]
+  },
+  {
+    "ext": [
+      "mex"
+    ],
+    "kind": [
+      "Matlab Executable file"
+    ]
+  },
+  {
+    "ext": [
+      "mmpz"
+    ],
+    "kind": [
+      "LMMS Compressed Project File"
+    ]
+  },
+  {
+    "ext": [
+      "mod"
+    ],
+    "kind": [
+      "AMPL model file"
+    ]
+  },
+  {
+    "ext": [
+      "mol"
+    ],
+    "kind": [
+      "RasMol MDL Molfile"
+    ]
+  },
+  {
+    "ext": [
+      "mol2"
+    ],
+    "kind": [
+      "Tripos Sybyl MOL2 Format"
+    ]
+  },
+  {
+    "ext": [
+      "mop"
+    ],
+    "kind": [
+      "MOPAC input file"
+    ]
+  },
+  {
+    "ext": [
+      "mpd"
+    ],
+    "kind": [
+      "LDraw file"
+    ]
+  },
+  {
+    "ext": [
+      "msc"
+    ],
+    "kind": [
+      "Microsoft MMC management saved console"
+    ]
+  },
+  {
+    "ext": [
+      "msf"
+    ],
+    "kind": [
+      "Multiple sequence file (pileup format)",
+      "Windows operating systems Windows Installer Package"
+    ]
+  },
+  {
+    "ext": [
+      "mso"
+    ],
+    "kind": [
+      "Microsoft Word 2000 email attachment metadata"
+    ]
+  },
+  {
+    "ext": [
+      "myd",
+      "myi"
+    ],
+    "kind": [
+      "MySQL MyISAM data file"
+    ]
+  },
+  {
+    "ext": [
+      "nc"
+    ],
+    "kind": [
+      "Name code program"
+    ]
+  },
+  {
+    "ext": [
+      "nc"
+    ],
+    "kind": [
+      "NC CAMS Instructions"
+    ]
+  },
+  {
+    "ext": [
+      "nc"
+    ],
+    "kind": [
+      "netCDF software package Binary Data"
+    ]
+  },
+  {
+    "ext": [
+      "ncd"
+    ],
+    "kind": [
+      "PCB Layout NC Drill File (Excellon)"
+    ]
+  },
+  {
+    "ext": [
+      "neis"
+    ],
+    "kind": [
+      "Korean Student Record Document"
+    ]
+  },
+  {
+    "ext": [
+      "neu"
+    ],
+    "kind": [
+      "PTC Pro/Engineer Neutral format"
+    ]
+  },
+  {
+    "ext": [
+      "nmf"
+    ],
+    "kind": [
+      "SpicyNodes Map File"
+    ]
+  },
+  {
+    "ext": [
+      "npr"
+    ],
+    "kind": [
+      "Steinberg Nuendo Project File"
+    ]
+  },
+  {
+    "ext": [
+      "ns1"
+    ],
+    "kind": [
+      "NetStumbler file"
+    ]
+  },
+  {
+    "ext": [
+      "nsa"
+    ],
+    "kind": [
+      "Nullsoft Streaming Audio media"
+    ]
+  },
+  {
+    "ext": [
+      "obj"
+    ],
+    "kind": [
+      "Compiled machine language code",
+      "Intel Relocatable Object Module Object code",
+      "Wavefront 3D Object"
+    ]
+  },
+  {
+    "ext": [
+      "ocx"
+    ],
+    "kind": [
+      "OLE custom control"
+    ]
+  },
+  {
+    "ext": [
+      "ogx"
+    ],
+    "mimetype": [
+      "application/ogg"
+    ],
+    "kind": [
+      "OGG"
+    ]
+  },
+  {
+    "ext": [
+      "org"
+    ],
+    "kind": [
+      "Emacs Org mode file",
+      "Origin versions 4 or earlier Older Origin Project"
+    ]
+  },
+  {
+    "ext": [
+      "ost"
+    ],
+    "kind": [
+      "Microsoft Outlook Offline Storage Table"
+    ]
+  },
+  {
+    "ext": [
+      "otl"
+    ],
+    "kind": [
+      "Vim Outliner plugin"
+    ]
+  },
+  {
+    "ext": [
+      "owl"
+    ],
+    "kind": [
+      "Protégé Web ontology language file"
+    ]
+  },
+  {
+    "ext": [
+      "oxt"
+    ],
+    "kind": [
+      "LibreOffice/OpenOffice.org extension"
+    ]
+  },
+  {
+    "ext": [
+      "p10"
+    ],
+    "kind": [
+      "Certificate Request"
+    ]
+  },
+  {
+    "ext": [
+      "p12"
+    ],
+    "kind": [
+      "'Crypto Shell Extensions' Personal Information Exchange"
+    ]
+  },
+  {
+    "ext": [
+      "pal"
+    ],
+    "kind": [
+      "PaintShop/XnView Color Palette (JASC)"
+    ]
+  },
+  {
+    "ext": [
+      "pblib"
+    ],
+    "kind": [
+      "PowerBASIC Power Library"
+    ]
+  },
+  {
+    "ext": [
+      "pbo"
+    ],
+    "kind": [
+      "Bohemia Interactive PBO Manager"
+    ]
+  },
+  {
+    "ext": [
+      "pcs"
+    ],
+    "kind": [
+      "PCSurvey Land Surveying file"
+    ]
+  },
+  {
+    "ext": [
+      "pdb"
+    ],
+    "kind": [
+      "Microsoft Windows debugging data"
+    ]
+  },
+  {
+    "ext": [
+      "pdi"
+    ],
+    "kind": [
+      "Portable Database Image"
+    ]
+  },
+  {
+    "ext": [
+      "pdm"
+    ],
+    "kind": [
+      "Deskmate Program"
+    ]
+  },
+  {
+    "ext": [
+      "pdm"
+    ],
+    "kind": [
+      "PowerDesigner Physical Data Model"
+    ]
+  },
+  {
+    "ext": [
+      "pdm"
+    ],
+    "kind": [
+      "Visual Basic Project Information File"
+    ]
+  },
+  {
+    "ext": [
+      "pds"
+    ],
+    "kind": [
+      "PALASM Design Description"
+    ]
+  },
+  {
+    "ext": [
+      "pds"
+    ],
+    "kind": [
+      "Planetary Data System Format"
+    ]
+  },
+  {
+    "ext": [
+      "pet"
+    ],
+    "kind": [
+      "Puppy Linux package"
+    ]
+  },
+  {
+    "ext": [
+      "pfa"
+    ],
+    "kind": [
+      "PostScript Font File",
+      "PostScript Font File (Unhinted)"
+    ]
+  },
+  {
+    "ext": [
+      "pfb"
+    ],
+    "kind": [
+      "Adobe Type Manager PostScript font"
+    ]
+  },
+  {
+    "ext": [
+      "pfc"
+    ],
+    "kind": [
+      "AOL Personal Filing Cabinet"
+    ]
+  },
+  {
+    "ext": [
+      "pfm"
+    ],
+    "kind": [
+      "Windows Font Metric file"
+    ]
+  },
+  {
+    "ext": [
+      "pgn"
+    ],
+    "kind": [
+      "Chess Portable Game Notation"
+    ]
+  },
+  {
+    "ext": [
+      "phf"
+    ],
+    "kind": [
+      "Nuverb Donarius Database File"
+    ]
+  },
+  {
+    "ext": [
+      "phr"
+    ],
+    "kind": [
+      "LocoScript Phrases"
+    ]
+  },
+  {
+    "ext": [
+      "phy"
+    ],
+    "kind": [
+      "Phylip file"
+    ]
+  },
+  {
+    "ext": [
+      "pit"
+    ],
+    "kind": [
+      "Samsung Odin3 Partition Information Table"
+    ]
+  },
+  {
+    "ext": [
+      "pl"
+    ],
+    "kind": [
+      "Perl source code",
+      "Prolog source code",
+      "IRAF astronomical data pixel list"
+    ]
+  },
+  {
+    "ext": [
+      "pli"
+    ],
+    "kind": [
+      "PL/I compilers PL/I source code"
+    ]
+  },
+  {
+    "ext": [
+      "pma"
+    ],
+    "kind": [
+      "PMarc Archive"
+    ]
+  },
+  {
+    "ext": [
+      "pom"
+    ],
+    "kind": [
+      "Apache Maven POM file Build manager configuration file"
+    ]
+  },
+  {
+    "ext": [
+      "prj"
+    ],
+    "kind": [
+      "Mkd project file"
+    ]
+  },
+  {
+    "ext": [
+      "proto"
+    ],
+    "kind": [
+      "Google Protocol Buffers Message"
+    ]
+  },
+  {
+    "ext": [
+      "prp"
+    ],
+    "kind": [
+      "Plasma Registry Page"
+    ]
+  },
+  {
+    "ext": [
+      "psm1"
+    ],
+    "kind": [
+      "Windows Powershell module"
+    ]
+  },
+  {
+    "ext": [
+      "psppalette"
+    ],
+    "kind": [
+      "Paint Shop Pro color palette (JASC format)"
+    ]
+  },
+  {
+    "ext": [
+      "ptf"
+    ],
+    "kind": [
+      "PSP Theme settings menu PlayStation Portable Theme file",
+      "Digidesign Pro Tools Pro Tools Session File"
+    ]
+  },
+  {
+    "ext": [
+      "pub"
+    ],
+    "kind": [
+      "PGP RSA System Public key ring file"
+    ]
+  },
+  {
+    "ext": [
+      "puf"
+    ],
+    "kind": [
+      "Crestron Toolbox Package Update File (Device firmware package, in ZIP format)"
+    ]
+  },
+  {
+    "ext": [
+      "pup"
+    ],
+    "kind": [
+      "Pileup format"
+    ]
+  },
+  {
+    "ext": [
+      "qfx"
+    ],
+    "kind": [
+      "Quicken OFX file"
+    ]
+  },
+  {
+    "ext": [
+      "qif"
+    ],
+    "kind": [
+      "Quicken Interchange Format"
+    ]
+  },
+  {
+    "ext": [
+      "r"
+    ],
+    "kind": [
+      "Ratfor file"
+    ]
+  },
+  {
+    "ext": [
+      "r2d"
+    ],
+    "kind": [
+      "Reflex 2 datafile"
+    ]
+  },
+  {
+    "ext": [
+      "ral"
+    ],
+    "kind": [
+      "Remote Access Language file"
+    ]
+  },
+  {
+    "ext": [
+      "ram"
+    ],
+    "kind": [
+      "RealAudio Ramfile"
+    ]
+  },
+  {
+    "ext": [
+      "rap"
+    ],
+    "kind": [
+      "RAPTOR Flowchart"
+    ]
+  },
+  {
+    "ext": [
+      "rbxl"
+    ],
+    "kind": [
+      "Roblox level"
+    ]
+  },
+  {
+    "ext": [
+      "rbxm"
+    ],
+    "kind": [
+      "Roblox model"
+    ]
+  },
+  {
+    "ext": [
+      "rc"
+    ],
+    "kind": [
+      "Bash Configuration file"
+    ]
+  },
+  {
+    "ext": [
+      "rdp"
+    ],
+    "kind": [
+      "Remote Desktop connection"
+    ]
+  },
+  {
+    "ext": [
+      "rds"
+    ],
+    "kind": [
+      "R Data file"
+    ]
+  },
+  {
+    "ext": [
+      "rpm"
+    ],
+    "kind": [
+      "Red Hat Package Manager file"
+    ]
+  },
+  {
+    "ext": [
+      "rst"
+    ],
+    "kind": [
+      "Docutils reStructuredText"
+    ]
+  },
+  {
+    "ext": [
+      "run"
+    ],
+    "kind": [
+      "AMPL script file",
+      "Shell Self-extracting Archive"
+    ]
+  },
+  {
+    "ext": [
+      "s"
+    ],
+    "kind": [
+      "Unix source code file"
+    ]
+  },
+  {
+    "ext": [
+      "s7i"
+    ],
+    "kind": [
+      "Seed7 Library/Include file"
+    ]
+  },
+  {
+    "ext": [
+      "sats"
+    ],
+    "kind": [
+      "ATS Static source"
+    ]
+  },
+  {
+    "ext": [
+      "sav"
+    ],
+    "kind": [
+      "PSPP SPSS System File"
+    ]
+  },
+  {
+    "ext": [
+      "sb"
+    ],
+    "kind": [
+      "Scratch project"
+    ]
+  },
+  {
+    "ext": [
+      "sb2"
+    ],
+    "kind": [
+      "Scratch 2.0 project"
+    ]
+  },
+  {
+    "ext": [
+      "sb3"
+    ],
+    "kind": [
+      "Scratch 3.0 project"
+    ]
+  },
+  {
+    "ext": [
+      "sbh"
+    ],
+    "kind": [
+      "ScriptBasic Header"
+    ]
+  },
+  {
+    "ext": [
+      "sbx"
+    ],
+    "kind": [
+      "ScratchX Experimental Extension"
+    ]
+  },
+  {
+    "ext": [
+      "sbx"
+    ],
+    "kind": [
+      "SeqBox Sequenced Box Container"
+    ]
+  },
+  {
+    "ext": [
+      "sd7"
+    ],
+    "kind": [
+      "Seed7 Source File"
+    ]
+  },
+  {
+    "ext": [
+      "sds"
+    ],
+    "kind": [
+      "geographic information systems and relational database management systems Self Defining Structure provides for N-dimensional very large datasets using HHCode // FIXME"
+    ]
+  },
+  {
+    "ext": [
+      "sec"
+    ],
+    "kind": [
+      "PGP Secret key ring file"
+    ]
+  },
+  {
+    "ext": [
+      "sed"
+    ],
+    "kind": [
+      "IExpress Self extraction directive file"
+    ]
+  },
+  {
+    "ext": [
+      "sf"
+    ],
+    "kind": [
+      "JAR Digital Signature"
+    ]
+  },
+  {
+    "ext": [
+      "sfb"
+    ],
+    "kind": [
+      "Emacs Configuration file"
+    ]
+  },
+  {
+    "ext": [
+      "shp"
+    ],
+    "kind": [
+      "PYIource file for text fonts"
+    ]
+  },
+  {
+    "ext": [
+      "shtml"
+    ],
+    "kind": [
+      "Server Side Includes SSI-enabled HTML file"
+    ]
+  },
+  {
+    "ext": [
+      "shx"
+    ],
+    "kind": [
+      "Shape entities"
+    ]
+  },
+  {
+    "ext": [
+      "smclvl"
+    ],
+    "kind": [
+      "Secret Maryo Chronicles Level"
+    ]
+  },
+  {
+    "ext": [
+      "so"
+    ],
+    "kind": [
+      "Shared object/dynamically linked library"
+    ]
+  },
+  {
+    "ext": [
+      "spf"
+    ],
+    "kind": [
+      "SQR Portable Format data"
+    ]
+  },
+  {
+    "ext": [
+      "spin"
+    ],
+    "kind": [
+      "Parallax Propeller Microcontrollers Spin source file"
+    ]
+  },
+  {
+    "ext": [
+      "spx"
+    ],
+    "kind": [
+      "Ogg Speex bitstream"
+    ]
+  },
+  {
+    "ext": [
+      "spz"
+    ],
+    "kind": [
+      "Crestron SIMPL Windows compiled program (ZIP)"
+    ]
+  },
+  {
+    "ext": [
+      "sql"
+    ],
+    "kind": [
+      "SQL database"
+    ]
+  },
+  {
+    "ext": [
+      "ssc"
+    ],
+    "kind": [
+      "Celestia Solar System Catalog file"
+    ]
+  },
+  {
+    "ext": [
+      "ssc"
+    ],
+    "kind": [
+      "Stellarium Script"
+    ]
+  },
+  {
+    "ext": [
+      "stc"
+    ],
+    "kind": [
+      "Celestia Star Catalog file"
+    ]
+  },
+  {
+    "ext": [
+      "stm"
+    ],
+    "kind": [
+      "Server Side Includes SSI-enabled HTML file"
+    ]
+  },
+  {
+    "ext": [
+      "svc"
+    ],
+    "kind": [
+      "ServiceHost Instance"
+    ]
+  },
+  {
+    "ext": [
+      "swf"
+    ],
+    "kind": [
+      "Macromedia Shockwave Flash"
+    ]
+  },
+  {
+    "ext": [
+      "swf"
+    ],
+    "mimetype": [
+      "application/x-shockwave-flash"
+    ],
+    "kind": [
+      "Small web format (SWF) or Adobe Flash document"
+    ]
+  },
+  {
+    "ext": [
+      "sxm"
+    ],
+    "kind": [
+      "OpenOffice.org XML formula"
+    ]
+  },
+  {
+    "ext": [
+      "torrent"
+    ],
+    "kind": [
+      "Torrent file"
+    ]
+  },
+  {
+    "ext": [
+      "ui"
+    ],
+    "kind": [
+      "Geoworks UI Compiler source code file"
+    ]
+  },
+  {
+    "ext": [
+      "ui"
+    ],
+    "kind": [
+      "Qt Designer UI File"
+    ]
+  },
+  {
+    "ext": [
+      "unv"
+    ],
+    "kind": [
+      "Simulation data file"
+    ]
+  },
+  {
+    "ext": [
+      "uot"
+    ],
+    "kind": [
+      "Uniform Office Format text"
+    ]
+  },
+  {
+    "ext": [
+      "ut!"
+    ],
+    "kind": [
+      "uTorrent datafile"
+    ]
+  },
+  {
+    "ext": [
+      "v"
+    ],
+    "kind": [
+      "ReaGeniX Check support file",
+      "Vivid 2.0 Main input file",
+      "Coq source file",
+      "Verilog source file"
+    ]
+  },
+  {
+    "ext": [
+      "v4p"
+    ],
+    "kind": [
+      "vvvv patch"
+    ]
+  },
+  {
+    "ext": [
+      "v64"
+    ],
+    "kind": [
+      "Nintendo 64 ROM"
+    ]
+  },
+  {
+    "ext": [
+      "vbox-extpack"
+    ],
+    "kind": [
+      "VirtualBox extension package"
+    ]
+  },
+  {
+    "ext": [
+      "vbox"
+    ],
+    "kind": [
+      "VirtualBox virtual machine settings file (XML)"
+    ]
+  },
+  {
+    "ext": [
+      "vbr"
+    ],
+    "kind": [
+      "Visual Basic Custom Control file"
+    ]
+  },
+  {
+    "ext": [
+      "vbx"
+    ],
+    "kind": [
+      "Visual Basic Extension"
+    ]
+  },
+  {
+    "ext": [
+      "vbz"
+    ],
+    "kind": [
+      "Visual Basic Setup Wizard Template"
+    ]
+  },
+  {
+    "ext": [
+      "vcls"
+    ],
+    "kind": [
+      "VocaListener voice scanner file"
+    ]
+  },
+  {
+    "ext": [
+      "vdo"
+    ],
+    "kind": [
+      "Story Board video image"
+    ]
+  },
+  {
+    "ext": [
+      "vdoc"
+    ],
+    "kind": [
+      "VinylMaster Cut Document"
+    ]
+  },
+  {
+    "ext": [
+      "vdr"
+    ],
+    "kind": [
+      "ComputerEasy Draw Drawing"
+    ]
+  },
+  {
+    "ext": [
+      "veg"
+    ],
+    "kind": [
+      "Sony Vegas Project"
+    ]
+  },
+  {
+    "ext": [
+      "vew"
+    ],
+    "kind": [
+      "Lotus Approach View file"
+    ]
+  },
+  {
+    "ext": [
+      "vf0"
+    ],
+    "kind": [
+      "OTExpert 5 Database file"
+    ]
+  },
+  {
+    "ext": [
+      "vfa"
+    ],
+    "kind": [
+      "FontLab Database file"
+    ]
+  },
+  {
+    "ext": [
+      "vfm"
+    ],
+    "kind": [
+      "Ventura Font Metrics file"
+    ]
+  },
+  {
+    "ext": [
+      "vmcz"
+    ],
+    "kind": [
+      "Microsoft Hyper-V Exported Virtual Machine"
+    ]
+  },
+  {
+    "ext": [
+      "vmf"
+    ],
+    "kind": [
+      "Ventura Publisher Font characteristics"
+    ]
+  },
+  {
+    "ext": [
+      "vmg"
+    ],
+    "kind": [
+      "Nokia PC Suite Text Message Editor message file format"
+    ]
+  },
+  {
+    "ext": [
+      "vms"
+    ],
+    "kind": [
+      "VMS Text file"
+    ]
+  },
+  {
+    "ext": [
+      "vmt"
+    ],
+    "kind": [
+      "Source Engine resource file"
+    ]
+  },
+  {
+    "ext": [
+      "vo"
+    ],
+    "kind": [
+      "Vivid Include file with object definition"
+    ]
+  },
+  {
+    "ext": [
+      "vpm"
+    ],
+    "kind": [
+      "Garmin Voice Processing Module"
+    ]
+  },
+  {
+    "ext": [
+      "vpp"
+    ],
+    "kind": [
+      "UML Visual Paradigm Project"
+    ]
+  },
+  {
+    "ext": [
+      "vqa"
+    ],
+    "kind": [
+      "The Legend of Kyrandia Vector Quantized Animation"
+    ]
+  },
+  {
+    "ext": [
+      "vqm"
+    ],
+    "kind": [
+      "Altera Hardware description language"
+    ]
+  },
+  {
+    "ext": [
+      "vrm"
+    ],
+    "kind": [
+      "QuattroPro Overlay file"
+    ]
+  },
+  {
+    "ext": [
+      "vrm"
+    ],
+    "kind": [
+      "WATCOM VREXX Visual rexx source"
+    ]
+  },
+  {
+    "ext": [
+      "vrp"
+    ],
+    "kind": [
+      "WATCOM VX?Rexx Project"
+    ]
+  },
+  {
+    "ext": [
+      "vrs"
+    ],
+    "kind": [
+      "WordPerfect Video Resource e.g. video device driver"
+    ],
+    "metaType": "unknown"
+  },
+  {
+    "ext": [
+      "vs"
+    ],
+    "kind": [
+      "Vivid 2.0 Include file with surface definition"
+    ]
+  },
+  {
+    "ext": [
+      "vsl"
+    ],
+    "kind": [
+      "Microsoft Visio add-on"
+    ]
+  },
+  {
+    "ext": [
+      "vsm"
+    ],
+    "kind": [
+      "VisSim Visual Simulation Model"
+    ]
+  },
+  {
+    "ext": [
+      "vsp"
+    ],
+    "kind": [
+      "SPX Sprite"
+    ]
+  },
+  {
+    "ext": [
+      "vsq"
+    ],
+    "kind": [
+      "Vocaloid3 Vocal synthesizer track data"
+    ]
+  },
+  {
+    "ext": [
+      "vsqx"
+    ],
+    "kind": [
+      "Vocaloid3 Vocal synthesizer track data"
+    ]
+  },
+  {
+    "ext": [
+      "vss"
+    ],
+    "kind": [
+      "Microsoft Visio Stencil"
+    ]
+  },
+  {
+    "ext": [
+      "vssm"
+    ],
+    "kind": [
+      "Microsoft Visio Stencil (Macro-enabled)"
+    ]
+  },
+  {
+    "ext": [
+      "vssx"
+    ],
+    "kind": [
+      "Microsoft Visio Stencil"
+    ]
+  },
+  {
+    "ext": [
+      "vst"
+    ],
+    "kind": [
+      "Microsoft Visio Template",
+      "Truevision Vista graphics"
+    ]
+  },
+  {
+    "ext": [
+      "vsto"
+    ],
+    "kind": [
+      "Microsoft Visual Studio Microsoft Office add-in file"
+    ]
+  },
+  {
+    "ext": [
+      "vsvnbak"
+    ],
+    "kind": [
+      "VisualSVN Server VisualSVN Server repository backup"
+    ]
+  },
+  {
+    "ext": [
+      "wmdb"
+    ],
+    "kind": [
+      "Windows Media Player database"
+    ]
+  },
+  {
+    "ext": [
+      "x"
+    ],
+    "kind": [
+      "SDSC Image Tool AVS X image file",
+      "DirectX 3D object",
+      "LEX source code file",
+      "XBasic Source code"
+    ]
+  },
+  {
+    "ext": [
+      "x3g"
+    ],
+    "kind": [
+      "Makerbot desktop Makerbot-specific gcode"
+    ]
+  },
+  {
+    "ext": [
+      "xa"
+    ],
+    "kind": [
+      "XA audio file"
+    ]
+  },
+  {
+    "ext": [
+      "xadr"
+    ],
+    "kind": [
+      "Crestron Toolbox address book file"
+    ]
+  },
+  {
+    "ext": [
+      "xbrl"
+    ],
+    "kind": [
+      "Extensible Business Reporting Language instance file"
+    ]
+  },
+  {
+    "ext": [
+      "xdm"
+    ],
+    "kind": [
+      "Xenotech Research Labs Directory Manipulator for 32-bit Protected Mode"
+    ]
+  },
+  {
+    "ext": [
+      "xeph"
+    ],
+    "kind": [
+      "PixInsight Solar System Ephemeris Data File"
+    ]
+  },
+  {
+    "ext": [
+      "xisb"
+    ],
+    "kind": [
+      "PixInsight Extensible Image Serialization Format Data Blocks File"
+    ]
+  },
+  {
+    "ext": [
+      "xisf"
+    ],
+    "kind": [
+      "PixInsight Extensible Image Serialization Format File (Monolithic)"
+    ]
+  },
+  {
+    "ext": [
+      "xish"
+    ],
+    "kind": [
+      "PixInsight Extensible Image Serialization Format Header File"
+    ]
+  },
+  {
+    "ext": [
+      "xla"
+    ],
+    "kind": [
+      "Microsoft Excel Add-in macro sheet"
+    ]
+  },
+  {
+    "ext": [
+      "xlb"
+    ],
+    "kind": [
+      "Microsoft Excel Toolbar"
+    ]
+  },
+  {
+    "ext": [
+      "xlc"
+    ],
+    "kind": [
+      "Microsoft Excel Chart"
+    ]
+  },
+  {
+    "ext": [
+      "xld"
+    ],
+    "kind": [
+      "Microsoft Excel Dialog"
+    ]
+  },
+  {
+    "ext": [
+      "xlf"
+    ],
+    "kind": [
+      "LadarSIM Extensible LADAR Format"
+    ]
+  },
+  {
+    "ext": [
+      "xll"
+    ],
+    "kind": [
+      "Microsoft Excel Dynamic Link Library"
+    ]
+  },
+  {
+    "ext": [
+      "xlm"
+    ],
+    "kind": [
+      "Microsoft Excel Macro File"
+    ]
+  },
+  {
+    "ext": [
+      "xlt"
+    ],
+    "kind": [
+      "Lotus Translation Table",
+      "IBM i Access Client Translation Table",
+      "Biew Xlat Table"
+    ]
+  },
+  {
+    "ext": [
+      "xlv"
+    ],
+    "kind": [
+      "Microsoft Excel Module"
+    ]
+  },
+  {
+    "ext": [
+      "xm"
+    ],
+    "kind": [
+      "FastTracker 2 extended module"
+    ]
+  },
+  {
+    "ext": [
+      "xmc"
+    ],
+    "kind": [
+      "Classmates iPhone App Assisted Contact Lists"
+    ]
+  },
+  {
+    "ext": [
+      "xmi"
+    ],
+    "kind": [
+      "MIDI music (Compressed extended)",
+      "XML Metadata Interchange"
+    ]
+  },
+  {
+    "ext": [
+      "xmod"
+    ],
+    "kind": [
+      "Monarch Model"
+    ]
+  },
+  {
+    "ext": [
+      "xmpz"
+    ],
+    "kind": [
+      "Miradi XML Miradi Project Zipfile"
+    ]
+  },
+  {
+    "ext": [
+      "xnf"
+    ],
+    "kind": [
+      "Standard Network File form"
+    ]
+  },
+  {
+    "ext": [
+      "xnk"
+    ],
+    "kind": [
+      "Microsoft Outlook Entity Shortcut"
+    ]
+  },
+  {
+    "ext": [
+      "xnn"
+    ],
+    "kind": [
+      "Borland Paradox Secondary indexes"
+    ]
+  },
+  {
+    "ext": [
+      "xosm"
+    ],
+    "kind": [
+      "PixInsight Project File"
+    ]
+  },
+  {
+    "ext": [
+      "xp"
+    ],
+    "kind": [
+      "FastTracker 2 Extended Pattern"
+    ]
+  },
+  {
+    "ext": [
+      "xpl"
+    ],
+    "kind": [
+      "Laminar Research X-Plane system file"
+    ]
+  },
+  {
+    "ext": [
+      "xpo"
+    ],
+    "kind": [
+      "Microsoft Dynamics AX Export"
+    ]
+  },
+  {
+    "ext": [
+      "xps"
+    ],
+    "kind": [
+      "Open XML Paper Specification"
+    ]
+  },
+  {
+    "ext": [
+      "xqt"
+    ],
+    "kind": [
+      "SuperCalc Macro sheet"
+    ]
+  },
+  {
+    "ext": [
+      "xrm-ms"
+    ],
+    "kind": [
+      "SuperCalc XrML Digital License"
+    ]
+  },
+  {
+    "ext": [
+      "xsd"
+    ],
+    "kind": [
+      "XML schema description"
+    ]
+  },
+  {
+    "ext": [
+      "xsf"
+    ],
+    "kind": [
+      "Microsoft InfoPath file"
+    ]
+  },
+  {
+    "ext": [
+      "xsn"
+    ],
+    "kind": [
+      "Microsoft InfoPath template"
+    ]
+  },
+  {
+    "ext": [
+      "xspf"
+    ],
+    "kind": [
+      "XML Sharable Playlist Format"
+    ]
+  },
+  {
+    "ext": [
+      "xtb"
+    ],
+    "kind": [
+      "LocoScript External translation table"
+    ]
+  },
+  {
+    "ext": [
+      "xx"
+    ],
+    "kind": [
+      "XXDECODE XX-encoded file (ASCII)"
+    ]
+  },
+  {
+    "ext": [
+      "xxe"
+    ],
+    "kind": [
+      "XXDECODE XX-encoded file (ASCII)"
+    ]
+  },
+  {
+    "ext": [
+      "xxx"
+    ],
+    "kind": [
+      "Singer Embroidery Format"
+    ]
+  },
+  {
+    "ext": [
+      "y"
+    ],
+    "kind": [
+      "Yacc/Bison Grammar file"
+    ]
+  },
+  {
+    "ext": [
+      "aac"
+    ],
+    "mimetype": [
+      "audio/aac"
+    ],
+    "kind": [
+      "AAC audio"
+    ]
+  },
+  {
+    "ext": [
+      "aiff"
+    ],
+    "kind": [
+      "Audio Interchange File Format"
+    ]
+  },
+  {
+    "ext": [
+      "ape"
+    ],
+    "kind": [
+      "Monkey's Audio (Lossless)"
+    ]
+  },
+  {
+    "ext": [
+      "at3"
+    ],
+    "kind": [
+      "Sony Atrac 3 sound/music"
+    ]
+  },
+  {
+    "ext": [
+      "dcm"
+    ],
+    "kind": [
+      "AWAVE DCM music module"
+    ]
+  },
+  {
+    "ext": [
+      "dfs"
+    ],
+    "kind": [
+      "Delight sound"
+    ]
+  },
+  {
+    "ext": [
+      "dig"
+    ],
+    "kind": [
+      "AWAVE Sound Designer 1 audio"
+    ]
+  },
+  {
+    "ext": [
+      "dor"
+    ],
+    "kind": [
+      "Roland Roland Digital audio"
+    ]
+  },
+  {
+    "ext": [
+      "flac"
+    ],
+    "kind": [
+      "FLAC Audio format"
+    ]
+  },
+  {
+    "ext": [
+      "it"
+    ],
+    "kind": [
+      "Impulse Tracker music"
+    ]
+  },
+  {
+    "ext": [
+      "mds"
+    ],
+    "kind": [
+      "Sound Imp. Midi Session"
+    ]
+  },
+  {
+    "ext": [
+      "midi",
+      "mid"
+    ],
+    "mimetype": [
+      "audio/midi",
+      "audio/x-midi"
+    ],
+    "kind": [
+      "Musical Instrument Digital Interface (MIDI)"
+    ]
+  },
+  {
+    "ext": [
+      "mp2"
+    ],
+    "kind": [
+      "MPEG audio"
+    ]
+  },
+  {
+    "ext": [
+      "mp3"
+    ],
+    "kind": [
+      "MP3 audio"
+    ]
+  },
+  {
+    "ext": [
+      "mp3"
+    ],
+    "mimetype": [
+      "audio/mpeg"
+    ],
+    "kind": [
+      "MP3 audio"
+    ]
+  },
+  {
+    "ext": [
+      "mp4"
+    ],
+    "kind": [
+      "MP4 audio"
+    ]
+  },
+  {
+    "ext": [
+      "mpa"
+    ],
+    "kind": [
+      "MPEG audio, layer 1,2,3"
+    ]
+  },
+  {
+    "ext": [
+      "mpc"
+    ],
+    "kind": [
+      "Musepack audio"
+    ]
+  },
+  {
+    "ext": [
+      "oga"
+    ],
+    "mimetype": [
+      "audio/ogg"
+    ],
+    "kind": [
+      "OGG audio"
+    ]
+  },
+  {
+    "ext": [
+      "opus"
+    ],
+    "kind": [
+      "Ogg/Opus audio"
+    ]
+  },
+  {
+    "ext": [
+      "opus"
+    ],
+    "mimetype": [
+      "audio/opus"
+    ],
+    "kind": [
+      "Opus audio"
+    ]
+  },
+  {
+    "ext": [
+      "rad"
+    ],
+    "kind": [
+      "Reality AdLib Tracker 2-op FM music"
+    ]
+  },
+  {
+    "ext": [
+      "sts"
+    ],
+    "kind": [
+      "Scream Tracker Song"
+    ]
+  },
+  {
+    "ext": [
+      "tak"
+    ],
+    "kind": [
+      "BE audio (Lossless)"
+    ]
+  },
+  {
+    "ext": [
+      "wav"
+    ],
+    "mimetype": [
+      "audio/wav"
+    ],
+    "kind": [
+      "Waveform audio"
+    ]
+  },
+  {
+    "ext": [
+      "weba"
+    ],
+    "mimetype": [
+      "audio/webm"
+    ],
+    "kind": [
+      "WEBM audio"
+    ]
+  },
+  {
+    "ext": [
+      "wma"
+    ],
+    "kind": [
+      "Windows Media audio"
+    ]
+  },
+  {
+    "ext": [
+      "xm"
+    ],
+    "kind": [
+      "FastTracker 2 Cubic Player Music"
+    ]
+  },
+  {
+    "ext": [
+      "xmf"
+    ],
+    "kind": [
+      "Extensible Music Format"
+    ]
+  },
+  {
+    "ext": [
+      "3ds"
+    ],
+    "kind": [
+      "3D Studio Graphics format"
+    ]
+  },
+  {
+    "ext": [
+      "3mf"
+    ],
+    "kind": [
+      "3D Manufacturing Format"
+    ]
+  },
+  {
+    "ext": [
+      "amf"
+    ],
+    "kind": [
+      "Additive Manufacturing Format"
+    ]
+  },
+  {
+    "ext": [
+      "ar"
+    ],
+    "kind": [
+      "Argon 3D model"
+    ]
+  },
+  {
+    "ext": [
+      "aty"
+    ],
+    "kind": [
+      "3D Topicscape Association Export file"
+    ]
+  },
+  {
+    "ext": [
+      "d4d"
+    ],
+    "kind": [
+      "Draw 4D Object"
+    ]
+  },
+  {
+    "ext": [
+      "d4p"
+    ],
+    "kind": [
+      "Draw 4D Pro Object"
+    ]
+  },
+  {
+    "ext": [
+      "dbx"
+    ],
+    "kind": [
+      "AutoCAD Database"
+    ]
+  },
+  {
+    "ext": [
+      "dc"
+    ],
+    "kind": [
+      "DesignCAD 3000 CAD Drawing"
+    ]
+  },
+  {
+    "ext": [
+      "dcd"
+    ],
+    "kind": [
+      "DesignCAD 3DMax CAD Drawing"
+    ]
+  },
+  {
+    "ext": [
+      "dch"
+    ],
+    "kind": [
+      "DipTrace Schematic Drawing"
+    ]
+  },
+  {
+    "ext": [
+      "dda"
+    ],
+    "kind": [
+      "GLBasic ASCII 3D object data"
+    ]
+  },
+  {
+    "ext": [
+      "ddd"
+    ],
+    "kind": [
+      "Building Diagram"
+    ]
+  },
+  {
+    "ext": [
+      "dff"
+    ],
+    "kind": [
+      "RenderWare 3d Model"
+    ]
+  },
+  {
+    "ext": [
+      "dkb"
+    ],
+    "kind": [
+      "DKBTrace Raytraced graphics"
+    ]
+  },
+  {
+    "ext": [
+      "dw2"
+    ],
+    "kind": [
+      "DesignCAD Drawing"
+    ]
+  },
+  {
+    "ext": [
+      "dwf"
+    ],
+    "kind": [
+      "Autodesk Design Web Format"
+    ]
+  },
+  {
+    "ext": [
+      "dwg"
+    ],
+    "kind": [
+      "CAD Drawing"
+    ]
+  },
+  {
+    "ext": [
+      "dxf"
+    ],
+    "kind": [
+      "CAD Drawing Interchange File"
+    ]
+  },
+  {
+    "ext": [
+      "e57"
+    ],
+    "kind": [
+      "3D Point cloud"
+    ]
+  },
+  {
+    "ext": [
+      "fbx"
+    ],
+    "kind": [
+      "Autodesk 3D Model Interchange file"
+    ]
+  },
+  {
+    "ext": [
+      "gbr"
+    ],
+    "kind": [
+      "PCB CAD/CAM Gerber format"
+    ]
+  },
+  {
+    "ext": [
+      "mdl"
+    ],
+    "kind": [
+      "3D Model"
+    ]
+  },
+  {
+    "ext": [
+      "mgf"
+    ],
+    "kind": [
+      "Materials and Geometry Format"
+    ]
+  },
+  {
+    "ext": [
+      "msdl"
+    ],
+    "kind": [
+      "Manchester Scene Description Language"
+    ]
+  },
+  {
+    "ext": [
+      "mxf"
+    ],
+    "kind": [
+      "Material Exchange Format"
+    ]
+  },
+  {
+    "ext": [
+      "stp"
+    ],
+    "kind": [
+      "CAD Universal Product Data Exchange Format"
+    ]
+  },
+  {
+    "ext": [
+      "sxp"
+    ],
+    "kind": [
+      "3D Studio Process file"
+    ]
+  },
+  {
+    "ext": [
+      "usdz"
+    ],
+    "kind": [
+      "Augmented Reality (AR) file"
+    ]
+  },
+  {
+    "ext": [
+      "vc6"
+    ],
+    "kind": [
+      "Ashlar-Vellum Graphite file"
+    ]
+  },
+  {
+    "ext": [
+      "vrml"
+    ],
+    "kind": [
+      "NetScape Virtual Reality Modeling Language"
+    ]
+  },
+  {
+    "ext": [
+      "vs"
+    ],
+    "kind": [
+      "Ashlar-Vellum Solids file"
+    ]
+  },
+  {
+    "ext": [
+      "x3d"
+    ],
+    "kind": [
+      "Extensible 3D Vector graphics (XML)"
+    ]
+  },
+  {
+    "ext": [
+      "xe"
+    ],
+    "kind": [
+      "Ashlar-Vellum Xenon Associative 3D Modeling file"
+    ]
+  },
+  {
+    "ext": [
+      "azw",
+      "mobi"
+    ],
+    "mimetype": [
+      "application/vnd.amazon.ebook"
+    ],
+    "kind": [
+      "Mobipocket/Amazon Kindle eBook"
+    ]
+  },
+  {
+    "ext": [
+      "epub"
+    ],
+    "mimetype": [
+      "application/epub+zip"
+    ],
+    "kind": [
+      "Electronic Publication (EPUB)"
+    ]
+  },
+  {
+    "ext": [
+      "fb2"
+    ],
+    "kind": [
+      "FictionBook e-book 2.0 file (DRM-free XML)"
+    ]
+  },
+  {
+    "ext": [
+      "7z"
+    ],
+    "mimetype": [
+      "application/x-7z-compressed"
+    ],
+    "kind": [
+      "7-zip archive"
+    ]
+  },
+  {
+    "ext": [
+      "a"
+    ],
+    "kind": [
+      "ar archive"
+    ]
+  },
+  {
+    "ext": [
+      "arc"
+    ],
+    "kind": [
+      "ARC Compressed archive"
+    ]
+  },
+  {
+    "ext": [
+      "arc"
+    ],
+    "mimetype": [
+      "application/x-freearc"
+    ],
+    "kind": [
+      "Archive"
+    ]
+  },
+  {
+    "ext": [
+      "bm3"
+    ],
+    "kind": [
+      "UIQ3 Phone backup"
+    ]
+  },
+  {
+    "ext": [
+      "bps"
+    ],
+    "kind": [
+      "WPS backup"
+    ]
+  },
+  {
+    "ext": [
+      "bz"
+    ],
+    "mimetype": [
+      "application/x-bzip"
+    ],
+    "kind": [
+      "BZip archive"
+    ]
+  },
+  {
+    "ext": [
+      "bz2"
+    ],
+    "mimetype": [
+      "application/x-bzip2"
+    ],
+    "kind": [
+      "BZip2 archive"
+    ]
+  },
+  {
+    "ext": [
+      "cab"
+    ],
+    "kind": [
+      "Cabinet archive"
+    ]
+  },
+  {
+    "ext": [
+      "daa"
+    ],
+    "kind": [
+      "Direct Access Archive"
+    ]
+  },
+  {
+    "ext": [
+      "dbx"
+    ],
+    "kind": [
+      "Outlook Express archive"
+    ]
+  },
+  {
+    "ext": [
+      "dd"
+    ],
+    "kind": [
+      "DiskDoubler Macintosh file archive"
+    ]
+  },
+  {
+    "ext": [
+      "gz"
+    ],
+    "mimetype": [
+      "application/gzip"
+    ],
+    "kind": [
+      "GZip compressed archive"
+    ]
+  },
+  {
+    "ext": [
+      "ha"
+    ],
+    "kind": [
+      "HA archive"
+    ]
+  },
+  {
+    "ext": [
+      "jar"
+    ],
+    "kind": [
+      "Java archive"
+    ]
+  },
+  {
+    "ext": [
+      "jar"
+    ],
+    "mimetype": [
+      "application/java-archive"
+    ],
+    "kind": [
+      "Java Archive"
+    ]
+  },
+  {
+    "ext": [
+      "lbr"
+    ],
+    "kind": [
+      "LU LBR Archive"
+    ]
+  },
+  {
+    "ext": [
+      "lha"
+    ],
+    "kind": [
+      "Total Commander LHA Archive"
+    ]
+  },
+  {
+    "ext": [
+      "lz"
+    ],
+    "kind": [
+      "LZip archive"
+    ]
+  },
+  {
+    "ext": [
+      "mpkg"
+    ],
+    "mimetype": [
+      "application/vnd.apple.installer+xml"
+    ],
+    "kind": [
+      "Apple Installer Package"
+    ]
+  },
+  {
+    "ext": [
+      "pack"
+    ],
+    "kind": [
+      "Packed JAR"
+    ]
+  },
+  {
+    "ext": [
+      "pak"
+    ],
+    "kind": [
+      "Pak archive"
+    ]
+  },
+  {
+    "ext": [
+      "par"
+    ],
+    "kind": [
+      "Parity archive"
+    ]
+  },
+  {
+    "ext": [
+      "par2"
+    ],
+    "kind": [
+      "Parity archive (v2)"
+    ]
+  },
+  {
+    "ext": [
+      "pit"
+    ],
+    "kind": [
+      "PACKIT Compressed Mac file archive"
+    ]
+  },
+  {
+    "ext": [
+      "pka"
+    ],
+    "kind": [
+      "PKARC Archive"
+    ]
+  },
+  {
+    "ext": [
+      "pst"
+    ],
+    "kind": [
+      "Microsoft Outlook archive file"
+    ]
+  },
+  {
+    "ext": [
+      "r00",
+      "r01",
+      "r02",
+      "r03",
+      "r04",
+      "r05",
+      "r06",
+      "r07",
+      "r08",
+      "r09",
+      "r10"
+    ],
+    "kind": [
+      "RAR Part of a multi-file RAR archive"
+    ]
+  },
+  {
+    "ext": [
+      "rar"
+    ],
+    "kind": [
+      "RAR archive"
+    ]
+  },
+  {
+    "ext": [
+      "rar"
+    ],
+    "mimetype": [
+      "application/vnd.rar"
+    ],
+    "kind": [
+      "RAR archive"
+    ]
+  },
+  {
+    "ext": [
+      "shar"
+    ],
+    "kind": [
+      "UNSHAR Shell self-extracting archive"
+    ]
+  },
+  {
+    "ext": [
+      "tar"
+    ],
+    "mimetype": [
+      "application/x-tar"
+    ],
+    "kind": [
+      "Tape archive"
+    ]
+  },
+  {
+    "ext": [
+      "taz"
+    ],
+    "kind": [
+      "Tape archive (Compressed)"
+    ]
+  },
+  {
+    "ext": [
+      "xar"
+    ],
+    "kind": [
+      "7-Zip Extensible Archive"
+    ]
+  },
+  {
+    "ext": [
+      "xla"
+    ],
+    "kind": [
+      "XLib Archive"
+    ]
+  },
+  {
+    "ext": [
+      "xlk"
+    ],
+    "kind": [
+      "Microsoft Excel Archive"
+    ]
+  },
+  {
+    "ext": [
+      "xz"
+    ],
+    "kind": [
+      "LZMA/LZMA2 Compressed file"
+    ]
+  },
+  {
+    "ext": [
+      "zip"
+    ],
+    "kind": [
+      "Zip archive"
+    ]
+  },
+  {
+    "ext": [
+      "adicht"
+    ],
+    "kind": [
+      "LabChart data acquisition"
+    ]
+  },
+  {
+    "ext": [
+      "alc"
+    ],
+    "kind": [
+      "Molecular coordinates"
+    ]
+  },
+  {
+    "ext": [
+      "fa"
+    ],
+    "kind": [
+      "FASTA format sequence"
+    ]
+  },
+  {
+    "ext": [
+      "faa"
+    ],
+    "kind": [
+      "FASTA format amino acid"
+    ]
+  },
+  {
+    "ext": [
+      "fasta"
+    ],
+    "kind": [
+      "FASTA format sequence"
+    ]
+  },
+  {
+    "ext": [
+      "fastq"
+    ],
+    "kind": [
+      "FASTQ format sequence"
+    ]
+  },
+  {
+    "ext": [
+      "ffn"
+    ],
+    "kind": [
+      "FASTA Format Nucleotide of gene regions"
+    ]
+  },
+  {
+    "ext": [
+      "fna"
+    ],
+    "kind": [
+      "FASTA Format Nucleic Acid"
+    ]
+  },
+  {
+    "ext": [
+      "pdb"
+    ],
+    "kind": [
+      "Molecule (Protein Data Bank)"
+    ]
+  },
+  {
+    "ext": [
+      "pfam"
+    ],
+    "kind": [
+      "PFAM Format (chemical)"
+    ]
+  },
+  {
+    "ext": [
+      "pir"
+    ],
+    "kind": [
+      "Protein Information Resource"
+    ]
+  },
+  {
+    "ext": [
+      "sto",
+      "stk"
+    ],
+    "kind": [
+      "Stockholm multiple sequence alignment"
+    ]
+  },
+  {
+    "ext": [
+      "xyz"
+    ],
+    "kind": [
+      "Molecular coordinates"
+    ]
+  },
+  {
+    "ext": [
+      "csv"
+    ],
+    "kind": [
+      "Comma-Separated Values"
+    ]
+  },
+  {
+    "ext": [
+      "md"
+    ],
+    "kind": [
+      "Text file (Markdown)"
+    ]
+  },
+  {
+    "ext": [
+      "rtf"
+    ],
+    "mimetype": [
+      "application/rtf"
+    ],
+    "kind": [
+      "Text file (RTF)"
+    ]
+  },
+  {
+    "ext": [
+      "tsv"
+    ],
+    "kind": [
+      "Tab-Separated Values"
+    ]
+  },
+  {
+    "ext": [
+      "txt"
+    ],
+    "mimetype": [
+      "text/plain"
+    ],
+    "kind": [
+      "Text file"
+    ]
+  },
+  {
+    "ext": [
+      "abw"
+    ],
+    "mimetype": [
+      "application/x-abiword"
+    ],
+    "kind": [
+      "AbiWord document"
+    ]
+  },
+  {
+    "ext": [
+      "doc"
+    ],
+    "mimetype": [
+      "application/msword"
+    ],
+    "kind": [
+      "Microsoft Word Document"
+    ]
+  },
+  {
+    "ext": [
+      "dochtml"
+    ],
+    "kind": [
+      "Microsoft Word HTML Document"
+    ]
+  },
+  {
+    "ext": [
+      "docm"
+    ],
+    "kind": [
+      "Microsoft Word Macro-Enabled Document"
+    ]
+  },
+  {
+    "ext": [
+      "docmhtml"
+    ],
+    "kind": [
+      "Microsoft Word MIME HTML Document"
+    ]
+  },
+  {
+    "ext": [
+      "docx"
+    ],
+    "kind": [
+      "Microsoft Word Document"
+    ]
+  },
+  {
+    "ext": [
+      "docx"
+    ],
+    "mimetype": [
+      "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    ],
+    "kind": [
+      "Microsoft Word (OpenXML)"
+    ]
+  },
+  {
+    "ext": [
+      "dot"
+    ],
+    "kind": [
+      "Microsoft Word 97-2003 Template"
+    ]
+  },
+  {
+    "ext": [
+      "dothtml"
+    ],
+    "kind": [
+      "Microsoft Word HTML Template"
+    ]
+  },
+  {
+    "ext": [
+      "dotm"
+    ],
+    "kind": [
+      "Microsoft Word Macro-Enabled Template"
+    ]
+  },
+  {
+    "ext": [
+      "dotx"
+    ],
+    "kind": [
+      "Microsoft Word Template"
+    ]
+  },
+  {
+    "ext": [
+      "dotx"
+    ],
+    "kind": [
+      "Office Open XML Text Document template"
+    ]
+  },
+  {
+    "ext": [
+      "email"
+    ],
+    "kind": [
+      "Email Message"
+    ]
+  },
+  {
+    "ext": [
+      "eml"
+    ],
+    "kind": [
+      "Outlook Express Stationery Template"
+    ]
+  },
+  {
+    "ext": [
+      "fodt"
+    ],
+    "kind": [
+      "LibreOffice OpenDocument Flat XML Document"
+    ]
+  },
+  {
+    "ext": [
+      "numbers"
+    ],
+    "kind": [
+      "Numbers Numbers spreadsheet"
+    ]
+  },
+  {
+    "ext": [
+      "odp"
+    ],
+    "mimetype": [
+      "application/vnd.oasis.opendocument.presentation"
+    ],
+    "kind": [
+      "OpenDocument Presentation"
+    ]
+  },
+  {
+    "ext": [
+      "ods"
+    ],
+    "mimetype": [
+      "application/vnd.oasis.opendocument.spreadsheet"
+    ],
+    "kind": [
+      "OpenDocument Spreadsheet"
+    ]
+  },
+  {
+    "ext": [
+      "odt"
+    ],
+    "mimetype": [
+      "application/vnd.oasis.opendocument.text"
+    ],
+    "kind": [
+      "OpenDocument Document"
+    ]
+  },
+  {
+    "ext": [
+      "pages"
+    ],
+    "kind": [
+      "Pages Document"
+    ]
+  },
+  {
+    "ext": [
+      "pdf"
+    ],
+    "mimetype": [
+      "application/pdf"
+    ],
+    "kind": [
+      "Adobe PDF Document"
+    ]
+  },
+  {
+    "ext": [
+      "ppsx"
+    ],
+    "kind": [
+      "Microsoft Office Auto-Play Presentation"
+    ]
+  },
+  {
+    "ext": [
+      "ppt"
+    ],
+    "mimetype": [
+      "application/vnd.ms-powerpoint"
+    ],
+    "kind": [
+      "Microsoft PowerPoint Presentation"
+    ]
+  },
+  {
+    "ext": [
+      "pptx"
+    ],
+    "mimetype": [
+      "application/vnd.openxmlformats-officedocument.presentationml.presentation"
+    ],
+    "kind": [
+      "Microsoft PowerPoint Presentation (OpenXML)"
+    ]
+  },
+  {
+    "ext": [
+      "stc"
+    ],
+    "kind": [
+      "OpenOffice.org XML Spreadsheet template"
+    ]
+  },
+  {
+    "ext": [
+      "std"
+    ],
+    "kind": [
+      "OpenOffice.org XML Drawing template"
+    ]
+  },
+  {
+    "ext": [
+      "sti"
+    ],
+    "kind": [
+      "OpenOffice.org XML Presentation template"
+    ]
+  },
+  {
+    "ext": [
+      "stw"
+    ],
+    "kind": [
+      "OpenOffice.org XML Text Document Template"
+    ]
+  },
+  {
+    "ext": [
+      "sxc"
+    ],
+    "kind": [
+      "OpenOffice.org XML Spreadsheet"
+    ]
+  },
+  {
+    "ext": [
+      "sxd"
+    ],
+    "kind": [
+      "OpenOffice.org XML Drawing"
+    ]
+  },
+  {
+    "ext": [
+      "sxg"
+    ],
+    "kind": [
+      "OpenOffice.org XML master Document"
+    ]
+  },
+  {
+    "ext": [
+      "sxi"
+    ],
+    "kind": [
+      "OpenOffice.org XML Presentation"
+    ]
+  },
+  {
+    "ext": [
+      "sxw"
+    ],
+    "kind": [
+      "OpenOffice.org XML text Document"
+    ]
+  },
+  {
+    "ext": [
+      "uos"
+    ],
+    "kind": [
+      "Uniform Office Format Spreadsheet"
+    ]
+  },
+  {
+    "ext": [
+      "vdw"
+    ],
+    "kind": [
+      "Microsoft Visio web drawing"
+    ]
+  },
+  {
+    "ext": [
+      "vdx"
+    ],
+    "kind": [
+      "Microsoft Visio XML drawing"
+    ]
+  },
+  {
+    "ext": [
+      "vsd"
+    ],
+    "kind": [
+      "Microsoft Visio Drawing (Binary)"
+    ]
+  },
+  {
+    "ext": [
+      "vsd"
+    ],
+    "mimetype": [
+      "application/vnd.visio"
+    ],
+    "kind": [
+      "Microsoft Visio Drawing"
+    ]
+  },
+  {
+    "ext": [
+      "vsdm"
+    ],
+    "kind": [
+      "Microsoft Visio Drawing (Macro-Enabled)"
+    ]
+  },
+  {
+    "ext": [
+      "vsdx"
+    ],
+    "kind": [
+      "Microsoft Visio Drawing"
+    ]
+  },
+  {
+    "ext": [
+      "vstm"
+    ],
+    "kind": [
+      "Microsoft Visio Template (Macro-enabled)"
+    ]
+  },
+  {
+    "ext": [
+      "vstx"
+    ],
+    "kind": [
+      "Microsoft Visio Drawing Template"
+    ]
+  },
+  {
+    "ext": [
+      "wk1"
+    ],
+    "kind": [
+      "Lotus Symphony 1.1+ Spreadsheet"
+    ]
+  },
+  {
+    "ext": [
+      "wk3"
+    ],
+    "kind": [
+      "Lotus 1-2-3 Spreadsheet"
+    ]
+  },
+  {
+    "ext": [
+      "wks"
+    ],
+    "kind": [
+      "Microsoft Works Spreadsheet",
+      "Lotus 1-2-3 Spreadsheet"
+    ]
+  },
+  {
+    "ext": [
+      "xlr"
+    ],
+    "kind": [
+      "Microsoft Works Spreadsheet"
+    ]
+  },
+  {
+    "ext": [
+      "xls"
+    ],
+    "kind": [
+      "Microsoft Excel Spreadsheet"
+    ]
+  },
+  {
+    "ext": [
+      "xls"
+    ],
+    "mimetype": [
+      "application/vnd.ms-excel"
+    ],
+    "kind": [
+      "Microsoft Excel"
+    ]
+  },
+  {
+    "ext": [
+      "xlsb"
+    ],
+    "kind": [
+      "Microsoft Excel Binary Spreadsheet (BIFF12)"
+    ]
+  },
+  {
+    "ext": [
+      "xlsm"
+    ],
+    "kind": [
+      "Microsoft Excel Macro-Enabled Spreadsheet"
+    ]
+  },
+  {
+    "ext": [
+      "xlsx"
+    ],
+    "kind": [
+      "Microsoft Excel Spreadsheet (XML)"
+    ]
+  },
+  {
+    "ext": [
+      "xlsx"
+    ],
+    "mimetype": [
+      "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    ],
+    "kind": [
+      "Microsoft Excel Spreadsheet (OpenXML)"
+    ]
+  },
+  {
+    "ext": [
+      "xlt"
+    ],
+    "kind": [
+      "Microsoft Excel Spreadsheet Template"
+    ]
+  },
+  {
+    "ext": [
+      "xlw"
+    ],
+    "kind": [
+      "Microsoft Excel Workbook"
+    ]
+  },
+  {
+    "ext": [
+      "c32"
+    ],
+    "kind": [
+      "COMBOOT Executable (32-bit)"
+    ]
+  },
+  {
+    "ext": [
+      "cbt"
+    ],
+    "kind": [
+      "COMBOOT Executable (incompatible with DOS COM files)"
+    ]
+  },
+  {
+    "ext": [
+      "beam"
+    ],
+    "kind": [
+      "BEAM Executable (Fat Binary)"
+    ]
+  },
+  {
+    "ext": [
+      "dex"
+    ],
+    "kind": [
+      "Dalvik executable"
+    ]
+  },
+  {
+    "ext": [
+      "dol"
+    ],
+    "kind": [
+      "Nintendo Wii and GameCube proprietary executable format"
+    ]
+  },
+  {
+    "ext": [
+      "exe"
+    ],
+    "kind": [
+      "Windows directly executable program"
+    ]
+  },
+  {
+    "ext": [
+      "cmd"
+    ],
+    "kind": [
+      "CP/M-86 Executable Program"
+    ]
+  },
+  {
+    "ext": [
+      "x86"
+    ],
+    "kind": [
+      "x86 Executable file"
+    ]
+  },
+  {
+    "ext": [
+      "x86_64"
+    ],
+    "kind": [
+      "x86-64 Executable file"
+    ]
+  },
+  {
+    "ext": [
+      "x64"
+    ],
+    "kind": [
+      "64-bit Executable file"
+    ]
+  },
+  {
+    "ext": [
+      "xex"
+    ],
+    "kind": [
+      "Xbox 360 Executable File"
+    ]
+  },
+  {
+    "ext": [
+      "xqt"
+    ],
+    "kind": [
+      "Waffle Executable file"
+    ]
+  },
+  {
+    "ext": [
+      "ai"
+    ],
+    "kind": [
+      "Adobe Illustrator Artwork"
+    ]
+  },
+  {
+    "ext": [
+      "ani"
+    ],
+    "kind": [
+      "Animated Cursor"
+    ]
+  },
+  {
+    "ext": [
+      "apng"
+    ],
+    "mimetype": [
+      "image/apng"
+    ],
+    "kind": [
+      "Animated Portable Network Graphics"
+    ]
+  },
+  {
+    "ext": [
+      "art"
+    ],
+    "kind": [
+      "Gerber Image format"
+    ]
+  },
+  {
+    "ext": [
+      "avif"
+    ],
+    "mimetype": [
+      "image/avif"
+    ],
+    "kind": [
+      "AV1 Image File Format"
+    ]
+  },
+  {
+    "ext": [
+      "bmp"
+    ],
+    "kind": [
+      "Bitmap Image"
+    ]
+  },
+  {
+    "ext": [
+      "bmp"
+    ],
+    "mimetype": [
+      "image/bmp"
+    ],
+    "kind": [
+      "Bitmap file"
+    ]
+  },
+  {
+    "ext": [
+      "cdr"
+    ],
+    "kind": [
+      "CorelDraw Vector graphics"
+    ]
+  },
+  {
+    "ext": [
+      "cgm"
+    ],
+    "kind": [
+      "Computer Graphics Metafile vector graphics"
+    ]
+  },
+  {
+    "ext": [
+      "cpc"
+    ],
+    "kind": [
+      "Cartesian Perceptual Compressed image"
+    ]
+  },
+  {
+    "ext": [
+      "cr2"
+    ],
+    "kind": [
+      "Canon Raw image"
+    ]
+  },
+  {
+    "ext": [
+      "dc6"
+    ],
+    "kind": [
+      "Diablo II Image"
+    ]
+  },
+  {
+    "ext": [
+      "dcc"
+    ],
+    "kind": [
+      "Diablo II Animation"
+    ]
+  },
+  {
+    "ext": [
+      "dcs"
+    ],
+    "kind": [
+      "QuarkXPress Bitmap graphics (CYMK format)"
+    ]
+  },
+  {
+    "ext": [
+      "dfd"
+    ],
+    "kind": [
+      "Prosa Data Flow Diagram graphic"
+    ]
+  },
+  {
+    "ext": [
+      "dgn"
+    ],
+    "kind": [
+      "MicroStation Graphics file"
+    ]
+  },
+  {
+    "ext": [
+      "dhp"
+    ],
+    "kind": [
+      "Dr. Halo PIC Format graphics file"
+    ]
+  },
+  {
+    "ext": [
+      "dib"
+    ],
+    "kind": [
+      "Win-OS/2 Device Independent Bitmap"
+    ]
+  },
+  {
+    "ext": [
+      "dicom"
+    ],
+    "kind": [
+      "XnView DICOM bitmap"
+    ]
+  },
+  {
+    "ext": [
+      "dip"
+    ],
+    "kind": [
+      "Graphic"
+    ]
+  },
+  {
+    "ext": [
+      "dng"
+    ],
+    "kind": [
+      "Digital camera raw image file"
+    ]
+  },
+  {
+    "ext": [
+      "e2d"
+    ],
+    "kind": [
+      "JFire 2-dimensional vector graphics file"
+    ]
+  },
+  {
+    "ext": [
+      "emf"
+    ],
+    "mimetype": [
+      "x-emf",
+      "image/emf"
+    ],
+    "kind": [
+      "Microsoft Enhanced Metafile"
+    ]
+  },
+  {
+    "ext": [
+      "emz"
+    ],
+    "kind": [
+      "Microsoft Enhanced Metafile (Compressed)"
+    ]
+  },
+  {
+    "ext": [
+      "eps"
+    ],
+    "kind": [
+      "Encapsulated PostScript"
+    ]
+  },
+  {
+    "ext": [
+      "fits"
+    ],
+    "kind": [
+      "Flexible Image Transport System"
+    ]
+  },
+  {
+    "ext": [
+      "gif"
+    ],
+    "kind": [
+      "GIF Image"
+    ]
+  },
+  {
+    "ext": [
+      "gif"
+    ],
+    "mimetype": [
+      "image/gif"
+    ],
+    "kind": [
+      "Graphics Interchange Format"
+    ]
+  },
+  {
+    "ext": [
+      "ico",
+      "cur"
+    ],
+    "mimetype": [
+      "image/x-icon"
+    ],
+    "kind": [
+      "Microsoft Icon"
+    ]
+  },
+  {
+    "ext": [
+      "ico"
+    ],
+    "kind": [
+      "Microsoft Windows Icon file"
+    ]
+  },
+  {
+    "ext": [
+      "ico"
+    ],
+    "mimetype": [
+      "image/vnd.microsoft.icon"
+    ],
+    "kind": [
+      "Icon format"
+    ]
+  },
+  {
+    "ext": [
+      "iges"
+    ],
+    "kind": [
+      "Initial Graphics Exchange Specification"
+    ]
+  },
+  {
+    "ext": [
+      "j2c"
+    ],
+    "kind": [
+      "JPEG 2000 image"
+    ]
+  },
+  {
+    "ext": [
+      "jbig"
+    ],
+    "kind": [
+      "JBIG Image"
+    ]
+  },
+  {
+    "ext": [
+      "jp2"
+    ],
+    "kind": [
+      "JPEG 2000 image"
+    ]
+  },
+  {
+    "ext": [
+      "jpeg"
+    ],
+    "kind": [
+      "JPEG image"
+    ]
+  },
+  {
+    "ext": [
+      "jpg",
+      "jpeg",
+      "jfif",
+      "pjpeg",
+      "pjp"
+    ],
+    "mimetype": [
+      "image/jpeg"
+    ],
+    "kind": [
+      "JPEG Image"
+    ]
+  },
+  {
+    "ext": [
+      "mdi"
+    ],
+    "kind": [
+      "Microsoft Office OCR Scan"
+    ]
+  },
+  {
+    "ext": [
+      "nef"
+    ],
+    "kind": [
+      "Nikon RAW image format"
+    ]
+  },
+  {
+    "ext": [
+      "neo"
+    ],
+    "kind": [
+      "Atari Neochrome Raster graphics file"
+    ]
+  },
+  {
+    "ext": [
+      "nrw"
+    ],
+    "kind": [
+      "Nikon Coolpix RAW image"
+    ]
+  },
+  {
+    "ext": [
+      "otb"
+    ],
+    "kind": [
+      "Over-the-air bitmap graphics"
+    ]
+  },
+  {
+    "ext": [
+      "pcl"
+    ],
+    "kind": [
+      "HP-PCL graphics"
+    ]
+  },
+  {
+    "ext": [
+      "pdn"
+    ],
+    "kind": [
+      "Paint.NET Image file"
+    ]
+  },
+  {
+    "ext": [
+      "pgl"
+    ],
+    "kind": [
+      "HP Plotter vector graphics"
+    ]
+  },
+  {
+    "ext": [
+      "pi2"
+    ],
+    "kind": [
+      "Portrait Innovations Studio2 High Resolution Encrypted Image file"
+    ]
+  },
+  {
+    "ext": [
+      "png"
+    ],
+    "mimetype": [
+      "image/png"
+    ],
+    "kind": [
+      "Portable Network Graphics"
+    ]
+  },
+  {
+    "ext": [
+      "psd"
+    ],
+    "kind": [
+      "Photoshop Document"
+    ]
+  },
+  {
+    "ext": [
+      "ras"
+    ],
+    "kind": [
+      "SUN Raster Graphics format"
+    ]
+  },
+  {
+    "ext": [
+      "spiff"
+    ],
+    "kind": [
+      "Still Picture Interchange File Format Image"
+    ]
+  },
+  {
+    "ext": [
+      "svg"
+    ],
+    "kind": [
+      "Scalable Vector Graphics Image"
+    ]
+  },
+  {
+    "ext": [
+      "svg"
+    ],
+    "mimetype": [
+      "image/svg+xml"
+    ],
+    "kind": [
+      "Scalable Vector Graphics (SVG)"
+    ]
+  },
+  {
+    "ext": [
+      "svg"
+    ],
+    "mimetype": [
+      "image/svg+xml"
+    ],
+    "kind": [
+      "Scalable Vector Graphics"
+    ]
+  },
+  {
+    "ext": [
+      "tga",
+      "icb",
+      "vda",
+      "vst"
+    ],
+    "mimetype": [
+      "image/x-targa",
+      "image/x-tga"
+    ],
+    "kind": [
+      "Targa bitmap graphic"
+    ]
+  },
+  {
+    "ext": [
+      "tif",
+      "tiff"
+    ],
+    "mimetype": [
+      "image/tiff"
+    ],
+    "kind": [
+      "Tagged Image File Format"
+    ]
+  },
+  {
+    "ext": [
+      "webp"
+    ],
+    "mimetype": [
+      "image/webp"
+    ],
+    "kind": [
+      "Web Picture format"
+    ]
+  },
+  {
+    "ext": [
+      "wmf"
+    ],
+    "kind": [
+      "Windows MetaFile vector graphics"
+    ]
+  },
+  {
+    "ext": [
+      "xar"
+    ],
+    "kind": [
+      "Xara graphics file"
+    ]
+  },
+  {
+    "ext": [
+      "xcf"
+    ],
+    "kind": [
+      "GIMP image file"
+    ]
+  },
+  {
+    "ext": [
+      "xpm"
+    ],
+    "kind": [
+      "X11 Pixel Map graphics"
+    ]
+  },
+  {
+    "ext": [
+      "xyz"
+    ],
+    "kind": [
+      "Molecular coordinates"
+    ]
+  },
+  {
+    "ext": [
+      "saif"
+    ],
+    "kind": [
+      "Spatial Archive and Interchange Format"
+    ]
+  },
+  {
+    "ext": [
+      "sur"
+    ],
+    "kind": [
+      "MountainsMap Surface topography (SURF)"
+    ]
+  },
+  {
+    "ext": [
+      "sdts"
+    ],
+    "kind": [
+      "Spatial Data Transfer Standard"
+    ]
+  },
+  {
+    "ext": [
+      "sat"
+    ],
+    "kind": [
+      "Spatial 3D ACIS Modeler file"
+    ]
+  },
+  {
+    "ext": [
+      "ov2"
+    ],
+    "kind": [
+      "TomTom Point of Interest Overlay file"
+    ]
+  },
+  {
+    "ext": [
+      "osm"
+    ],
+    "kind": [
+      "OpenStreetMap data",
+      "OpenStreetMap note"
+    ]
+  },
+  {
+    "ext": [
+      "kml"
+    ],
+    "kind": [
+      "Google Earth Keyhole Markup Language"
+    ]
+  },
+  {
+    "ext": [
+      "osc"
+    ],
+    "kind": [
+      "OpenStreetMap Changeset"
+    ]
+  },
+  {
+    "ext": [
+      "kmz"
+    ],
+    "kind": [
+      "Google Earth Keyhole Markup Language (Zip compressed)"
+    ]
+  },
+  {
+    "ext": [
+      "adicht"
+    ],
+    "kind": [
+      "LabChart data acquisition"
+    ]
+  },
+  {
+    "ext": [
+      "alc"
+    ],
+    "kind": [
+      "Molecular coordinates"
+    ]
+  },
+  {
+    "ext": [
+      "gml"
+    ],
+    "kind": [
+      "Geography Markup Language File"
+    ]
+  },
+  {
+    "ext": [
+      "igc"
+    ],
+    "kind": [
+      "GPS Flight tracks"
+    ]
+  },
+  {
+    "ext": [
+      "mnt"
+    ],
+    "kind": [
+      "MountainsMap Surface metrology or image analysis document"
+    ]
+  },
+  {
+    "ext": [
+      "eot"
+    ],
+    "mimetype": [
+      "application/vnd.ms-fontobject"
+    ],
+    "kind": [
+      "MS Embedded OpenType fonts"
+    ]
+  },
+  {
+    "ext": [
+      "otf"
+    ],
+    "mimetype": [
+      "font/otf"
+    ],
+    "kind": [
+      "OpenType font"
+    ]
+  },
+  {
+    "ext": [
+      "r8p"
+    ],
+    "kind": [
+      "Intellifont bitmap font file"
+    ]
+  },
+  {
+    "ext": [
+      "ttf"
+    ],
+    "mimetype": [
+      "font/ttf"
+    ],
+    "kind": [
+      "TrueType Font"
+    ]
+  },
+  {
+    "ext": [
+      "woff"
+    ],
+    "mimetype": [
+      "font/woff"
+    ],
+    "kind": [
+      "Web Open Font Format (WOFF)"
+    ]
+  },
+  {
+    "ext": [
+      "woff2"
+    ],
+    "mimetype": [
+      "font/woff2"
+    ],
+    "kind": [
+      "Web Open Font Format (WOFF)"
+    ]
+  },
+  {
+    "ext": [
+      "css"
+    ],
+    "mimetype": [
+      "text/css"
+    ],
+    "kind": [
+      "Cascading Style Sheets (CSS)"
+    ]
+  },
+  {
+    "ext": [
+      "csv"
+    ],
+    "mimetype": [
+      "text/csv"
+    ],
+    "kind": [
+      "Comma-separated values (CSV)"
+    ]
+  },
+  {
+    "ext": [
+      "ex"
+    ],
+    "kind": [
+      "BEAM Elixir source code"
+    ]
+  },
+  {
+    "ext": [
+      "html",
+      "htm"
+    ],
+    "mimetype": [
+      "text/html"
+    ],
+    "kind": [
+      "HyperText Markup Language (HTML)"
+    ]
+  },
+  {
+    "ext": [
+      "js",
+      "jsx"
+    ],
+    "mimetype": [
+      "text/javascript"
+    ],
+    "kind": [
+      "JavaScript"
+    ]
+  },
+  {
+    "ext": [
+      "json"
+    ],
+    "kind": [
+      "JavaScript Object Notation"
+    ]
+  },
+  {
+    "ext": [
+      "json"
+    ],
+    "mimetype": [
+      "application/json"
+    ],
+    "kind": [
+      "JSON data"
+    ]
+  },
+  {
+    "ext": [
+      "jsonld"
+    ],
+    "mimetype": [
+      "application/ld+json"
+    ],
+    "kind": [
+      "JSON-LD data"
+    ]
+  },
+  {
+    "ext": [
+      "jsp"
+    ],
+    "kind": [
+      "Jakarta Server Pages"
+    ]
+  },
+  {
+    "ext": [
+      "mjs"
+    ],
+    "mimetype": [
+      "text/javascript"
+    ],
+    "kind": [
+      "JavaScript module"
+    ]
+  },
+  {
+    "ext": [
+      "modules"
+    ],
+    "kind": [
+      "GTK+ module"
+    ]
+  },
+  {
+    "ext": [
+      "php"
+    ],
+    "mimetype": [
+      "application/x-httpd-php"
+    ],
+    "kind": [
+      "Hypertext Preprocessor (Personal Home Page)"
+    ]
+  },
+  {
+    "ext": [
+      "pkl"
+    ],
+    "kind": [
+      "Python object serialization Pickle file"
+    ]
+  },
+  {
+    "ext": [
+      "res"
+    ],
+    "kind": [
+      "C++ compiled resource"
+    ]
+  },
+  {
+    "ext": [
+      "tlb"
+    ],
+    "kind": [
+      "Visual C++/Visual Studio Type library"
+    ]
+  },
+  {
+    "ext": [
+      "ts",
+      "tsx"
+    ],
+    "mimetype": [
+      "text/javascript"
+    ],
+    "kind": [
+      "TypeScript"
+    ]
+  },
+  {
+    "ext": [
+      "ump"
+    ],
+    "kind": [
+      "Umple UML Programming Language Format"
+    ]
+  },
+  {
+    "ext": [
+      "vb"
+    ],
+    "kind": [
+      "Visual Basic .Net source file"
+    ]
+  },
+  {
+    "ext": [
+      "vbproj"
+    ],
+    "kind": [
+      "Visual Basic .Net Project"
+    ]
+  },
+  {
+    "ext": [
+      "xhtml"
+    ],
+    "mimetype": [
+      "application/xhtml+xml"
+    ],
+    "kind": [
+      "Extensible Hypertext Markup Language file"
+    ]
+  },
+  {
+    "ext": [
+      "xml"
+    ],
+    "mimetype": [
+      "application/xml"
+    ],
+    "kind": [
+      "Extensible Markup Language file"
+    ]
+  },
+  {
+    "ext": [
+      "xmlt"
+    ],
+    "kind": [
+      "XML Template"
+    ]
+  },
+  {
+    "ext": [
+      "xslt"
+    ],
+    "kind": [
+      "Extensible Stylesheet Language Transformations"
+    ]
+  },
+  {
+    "ext": [
+      "yml",
+      "yaml"
+    ],
+    "kind": [
+      "YAML (data serialization language) YAML source file"
+    ]
+  },
+  {
+    "ext": [
+      "evt"
+    ],
+    "kind": [
+      "Windows Event log file"
+    ]
+  },
+  {
+    "ext": [
+      "evtx"
+    ],
+    "kind": [
+      "Windows Event log file (XML)"
+    ]
+  },
+  {
+    "ext": [
+      "bin"
+    ],
+    "mimetype": [
+      "application/octet-stream"
+    ],
+    "kind": [
+      "Binary data"
+    ]
+  },
+  {
+    "ext": [
+      "adz"
+    ],
+    "kind": [
+      "Amiga Disk Zipped"
+    ]
+  },
+  {
+    "ext": [
+      "d64"
+    ],
+    "kind": [
+      "Commodore 64 disk image"
+    ]
+  },
+  {
+    "ext": [
+      "d88"
+    ],
+    "kind": [
+      "Toshiba Pasopeia D88 disk image"
+    ]
+  },
+  {
+    "ext": [
+      "ddi"
+    ],
+    "kind": [
+      "DiskDupe Disk Image"
+    ]
+  },
+  {
+    "ext": [
+      "dmg"
+    ],
+    "kind": [
+      "Apple Disk Image"
+    ]
+  },
+  {
+    "ext": [
+      "ede"
+    ],
+    "kind": [
+      "AWAVE Ensoniq EPS disk image"
+    ]
+  },
+  {
+    "ext": [
+      "esd"
+    ],
+    "kind": [
+      "Windows Imaging Format disk image"
+    ]
+  },
+  {
+    "ext": [
+      "swm"
+    ],
+    "kind": [
+      "Split Windows Imaging Format disk image"
+    ]
+  },
+  {
+    "ext": [
+      "vdi"
+    ],
+    "kind": [
+      "VirtualBox Virtual Disk Image"
+    ]
+  },
+  {
+    "ext": [
+      "vfd"
+    ],
+    "kind": [
+      "Virtual Floppy Disk image"
+    ]
+  },
+  {
+    "ext": [
+      "vmdk"
+    ],
+    "kind": [
+      "VMware Virtual Disk file"
+    ]
+  }
+]

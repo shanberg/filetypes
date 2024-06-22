@@ -1,0 +1,25 @@
+ext,mimetype,kind
+css,text/css,Cascading Style Sheets (CSS)
+csv,text/csv,Comma-separated values (CSV)
+ex,,BEAM Elixir source code
+"html, htm",text/html,HyperText Markup Language (HTML)
+"js, jsx",text/javascript,JavaScript
+json,,JavaScript Object Notation
+json,application/json,JSON data
+jsonld,application/ld+json,JSON-LD data
+jsp,,Jakarta Server Pages
+mjs,text/javascript,JavaScript module
+modules,,GTK+ module
+php,application/x-httpd-php,Hypertext Preprocessor (Personal Home Page)
+pkl,,Python object serialization Pickle file
+res,,C++ compiled resource
+tlb,,Visual C++/Visual Studio Type library
+"ts, tsx",text/javascript,TypeScript
+ump,,Umple UML Programming Language Format
+vb,,Visual Basic .Net source file
+vbproj,,Visual Basic .Net Project
+xhtml,application/xhtml+xml,Extensible Hypertext Markup Language file
+xml,application/xml,Extensible Markup Language file
+xmlt,,XML Template
+xslt,,Extensible Stylesheet Language Transformations
+"yml, yaml",,YAML (data serialization language) YAML source file

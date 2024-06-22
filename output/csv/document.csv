@@ -1,0 +1,55 @@
+ext,mimetype,kind
+abw,application/x-abiword,AbiWord document
+doc,application/msword,Microsoft Word Document
+dochtml,,Microsoft Word HTML Document
+docm,,Microsoft Word Macro-Enabled Document
+docmhtml,,Microsoft Word MIME HTML Document
+docx,,Microsoft Word Document
+docx,application/vnd.openxmlformats-officedocument.wordprocessingml.document,Microsoft Word (OpenXML)
+dot,,Microsoft Word 97-2003 Template
+dothtml,,Microsoft Word HTML Template
+dotm,,Microsoft Word Macro-Enabled Template
+dotx,,Microsoft Word Template
+dotx,,Office Open XML Text Document template
+email,,Email Message
+eml,,Outlook Express Stationery Template
+fodt,,LibreOffice OpenDocument Flat XML Document
+numbers,,Numbers Numbers spreadsheet
+odp,application/vnd.oasis.opendocument.presentation,OpenDocument Presentation
+ods,application/vnd.oasis.opendocument.spreadsheet,OpenDocument Spreadsheet
+odt,application/vnd.oasis.opendocument.text,OpenDocument Document
+pages,,Pages Document
+pdf,application/pdf,Adobe PDF Document
+ppsx,,Microsoft Office Auto-Play Presentation
+ppt,application/vnd.ms-powerpoint,Microsoft PowerPoint Presentation
+pptx,application/vnd.openxmlformats-officedocument.presentationml.presentation,Microsoft PowerPoint Presentation (OpenXML)
+stc,,OpenOffice.org XML Spreadsheet template
+std,,OpenOffice.org XML Drawing template
+sti,,OpenOffice.org XML Presentation template
+stw,,OpenOffice.org XML Text Document Template
+sxc,,OpenOffice.org XML Spreadsheet
+sxd,,OpenOffice.org XML Drawing
+sxg,,OpenOffice.org XML master Document
+sxi,,OpenOffice.org XML Presentation
+sxw,,OpenOffice.org XML text Document
+uos,,Uniform Office Format Spreadsheet
+vdw,,Microsoft Visio web drawing
+vdx,,Microsoft Visio XML drawing
+vsd,,Microsoft Visio Drawing (Binary)
+vsd,application/vnd.visio,Microsoft Visio Drawing
+vsdm,,Microsoft Visio Drawing (Macro-Enabled)
+vsdx,,Microsoft Visio Drawing
+vstm,,Microsoft Visio Template (Macro-enabled)
+vstx,,Microsoft Visio Drawing Template
+wk1,,Lotus Symphony 1.1+ Spreadsheet
+wk3,,Lotus 1-2-3 Spreadsheet
+wks,,"Microsoft Works Spreadsheet, Lotus 1-2-3 Spreadsheet"
+xlr,,Microsoft Works Spreadsheet
+xls,,Microsoft Excel Spreadsheet
+xls,application/vnd.ms-excel,Microsoft Excel
+xlsb,,Microsoft Excel Binary Spreadsheet (BIFF12)
+xlsm,,Microsoft Excel Macro-Enabled Spreadsheet
+xlsx,,Microsoft Excel Spreadsheet (XML)
+xlsx,application/vnd.openxmlformats-officedocument.spreadsheetml.sheet,Microsoft Excel Spreadsheet (OpenXML)
+xlt,,Microsoft Excel Spreadsheet Template
+xlw,,Microsoft Excel Workbook

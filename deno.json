@@ -1,0 +1,13 @@
+{
+  "tasks": {
+    "convert": "deno run --allow-read --allow-write src/convert.ts",
+    "test": "deno test --allow-read --allow-write"
+  },
+  "imports": {
+    "@std/csv": "jsr:@std/csv@^0.224.3",
+    "@std/fs": "jsr:@std/fs@^0.229.0",
+    "@std/jsonc": "jsr:@std/jsonc@^0.224.3",
+    "@std/path": "jsr:@std/path@^0.225.2",
+    "@std/assert": "jsr:@std/assert@^0.226.0"
+  }
+}

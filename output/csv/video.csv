@@ -1,0 +1,31 @@
+ext,mimetype,kind
+3ds,,3D Studio Graphics format
+3g2,,Mobile Phone Video
+3g2,video/3gpp2,3GPP2 audio/video container
+3gp,,Mobile Phone Video
+3gp,video/3gpp,3GPP audio/video container
+asf,,Advanced Streaming Format Video/Audio
+avi,,Audio Video Interleave
+avi,video/x-msvideo,Audio Video Interleave
+"bik, bik2",video/vnd.radgametools.bink,BINK Video
+d3v,,Nintendo DS Video
+dir,,MacroMind Director 4.x Movie
+dpx,,Digital Moving Picture Exchange
+flv,,Adobe Flash Video
+mcf,,Multimedia Container Format
+"mov, qt",,QuickTime Video
+mpeg,,MPEG Audio/Video
+mpeg,video/mpeg,MPEG Video
+mpg,,MPEG Audio/Video
+nsv,,Nullsoft Streaming Video media
+ogv,video/ogg,OGG video
+qtvr,,QuickTime VR Movie
+r3d,,Red Raw Video
+rm,,RealMedia Media
+rmvb,,RealMedia Variable Bitrate Media
+seq,,Tiertex video sequence
+smk,,RAD Smacker Video
+ts,video/mp2t,MPEG transport stream
+vob,,DVD-R/W Video Object
+webm,video/webm,WEBM video
+xmv,,Xbox video

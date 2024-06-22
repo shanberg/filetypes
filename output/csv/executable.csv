@@ -1,0 +1,13 @@
+ext,mimetype,kind
+c32,,COMBOOT Executable (32-bit)
+cbt,,COMBOOT Executable (incompatible with DOS COM files)
+beam,,BEAM Executable (Fat Binary)
+dex,,Dalvik executable
+dol,,Nintendo Wii and GameCube proprietary executable format
+exe,,Windows directly executable program
+cmd,,CP/M-86 Executable Program
+x86,,x86 Executable file
+x86_64,,x86-64 Executable file
+x64,,64-bit Executable file
+xex,,Xbox 360 Executable File
+xqt,,Waffle Executable file
